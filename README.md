@@ -19,7 +19,6 @@ economic data for understanding the anthropocence.
 
  <!-- Who cares -->
 
-
 - Ecological studies are now embeded in the anthropocene
 - Interconnected world
 - Global environmental change
@@ -97,3 +96,5 @@ network?
 - Uncertainty
 
 # Q & A
+
+*This talk was made via Rmarkdown*
