@@ -10,7 +10,8 @@ economic data for understanding the anthropocence.
 - The far reach of the city
 - Complex systems = many players and indirect effects matter
 - How do we quantify and manage systems?
-- A new equation for a new era in science
+- IO and MRIO models
+- A new equation for a new era in science E = F(I-A)^-1
 - Work = Forest Land Embodied in Trade
 - Analysis = Structure = Robustness
 - Next up = Climate change impacts and global scale
@@ -34,7 +35,47 @@ economic data for understanding the anthropocence.
 
 # Input-Output Analysis: The Short Short Version
 
-- Leontief
+- Direct consupmption
+- Trade occurs among sectors == Indirect consumption
+
+
+# comtrade_china_imports_wood
+
+![comtrade_china_imports_wood.jpeg](comtrade_china_imports_wood.jpeg "comtrade_china_imports_wood.jpeg")
+
+# example_network
+
+![example_network.jpeg](example_network.jpeg "example_network.jpeg")
+
+# exiobase3
+
+![exiobase3.jpg](exiobase3.jpg "exiobase3.jpg")
+
+# Forest_Cover_China
+
+![Forest_Cover_China.JPG](Forest_Cover_China.JPG "Forest_Cover_China.JPG")
+
+# lemrio_climate_change
+
+![lemrio_climate_change.jpeg](lemrio_climate_change.jpeg "lemrio_climate_change.jpeg")
+
+# lemrio_climate_workflow
+
+![lemrio_climate_workflow.jpeg](lemrio_climate_workflow.jpeg "lemrio_climate_workflow.jpeg")
+
+# lemrio_equation
+
+![lemrio_equation.jpeg](lemrio_equation.jpeg "lemrio_equation.jpeg")
+
+# lemrio
+
+![lemrio.jpeg](lemrio.jpeg "lemrio.jpeg")
+
+# resourcetrade_network
+
+![resourcetrade_network.jpeg](resourcetrade_network.jpeg "resourcetrade_network.jpeg")
+
+
 
 # IO Analysis and Ecology
 
