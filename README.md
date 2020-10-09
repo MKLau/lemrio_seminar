@@ -13,7 +13,13 @@ economic data for understanding the anthropocence.
 - China land imports, with forest being the largest, has increased
 over time
 - China policy of no harvesting in natural forests took effect in the
-  late 1990's
+late 1990's
+- Land trading in China is dominated by urban areas
+- Domestic forest trade has two main epicenters: Southern and NE modules
+- No analysis of domestic forest network structure of land trade
+- Domestic structural analysis of energy/currency trade
+(e.g. Kharrazi)
+- Primarily control analysis
 
 # Fri Oct  2 17:57:15 EDT 2020
 
