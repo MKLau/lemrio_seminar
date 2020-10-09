@@ -4,6 +4,17 @@ LEMRIO Seminar
 This talk is to give an overview of the background and application of
 economic data for understanding the anthropocence.
 
+# Fri Oct  9 18:32:26 EDT 2020
+
+- Examples of various embodied/virtual analyses
+- US is top importer of arable land (?)
+- US is top importer of forested land (Tian)
+- China major importer of land
+- China land imports, with forest being the largest, has increased
+over time
+- China policy of no harvesting in natural forests took effect in the
+  late 1990's
+
 # Fri Oct  2 17:57:15 EDT 2020
 
 - Humans = dominant global impact -> Anthropocene
