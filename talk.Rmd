@@ -1,0 +1,140 @@
+---
+title: Forested landscapes in the Anthropocene
+subtitle: The flow of Chinese forests both highly local and global
+author: M.K. Lau (Ph.D.)
+address: Chinese Academy of Sciences and Harvard University
+
+---
+
+# Motivation
+
+- Ecological studies are now embeded in the anthropocene
+- Interconnected world
+- Global environmental change
+- Complex systems at global scales
+
+
+# Overview
+
+
+# Background: Anthropocene
+
+- Humans = dominant global impact -> Anthropocene
+- Indirect effecs and The far reach of the city
+- Complex systems = many players and indirect effects matter
+
+
+# Background: Economy == Ecology
+
+- Economic trade data is a window into human impacts
+
+
+# Background: Input-Output Models
+
+- How do we quantify and manage systems?
+- Input-Output Analysis provides a modeling framework 
+- Direct consumption
+- Trade occurs among sectors == Indirect consumption
+- IO and MRIO models
+- A new equation for a new era in science E = F(I-A)^-1
+
+# Background: Input-Output Models
+
+![exiobase3.jpg](images/exiobase3.jpg "exiobase3.jpg")
+
+# Background: Environmental Extension
+
+- Allows for indirect/consumption based accounting
+
+![lemrio.jpeg](images/lemrio.jpeg "lemrio.jpeg")
+
+# Background: Environmental Extension
+
+![lemrio_equation.jpeg](images/lemrio_equation.jpeg "lemrio_equation.jpeg")
+
+# Background: Networks are Everywhere
+
+![resourcetrade_network.jpeg](images/resourcetrade_network.jpeg "resourcetrade_network.jpeg")
+
+
+# Background: Networks are Everywhere
+
+![example_network.jpeg](images/example_network.jpeg "example_network.jpeg")
+
+
+# Background: Ecological Network Analysis
+
+- Ecological network theory provides predictions and metrics (Lau 2017)
+- Systems theory provides strategies for inteventions
+- ENA <- Odums, MacArthur, Ulanowicz, Patten,
+- SNA -> ecological networks (Watts and Strogatz, etc.)
+- Structure linked to function (Donella Meadows)
+
+
+# Research: Why Chinese Forests?
+
+- Work = Forest Land Embodied in Trade
+
+# A Brief History of Forest Time in China
+
+- China is big and diverse
+- Long history of human habitation in China
+- Historically, two primary regions of forestry
+- Forest conservation impacts harvest
+- Flows within China and among countries globally important
+
+# Research: Why Chinese Forests?
+
+![Forest_Cover_China.JPG](images/Forest_Cover_China.JPG "Forest_Cover_China.JPG")
+
+# Research: Why Chinese Forests?
+
+![comtrade_china_imports_wood.jpeg](images/comtrade_china_imports_wood.jpeg "comtrade_china_imports_wood.jpeg")
+
+
+# Main Focus of Research
+
+1. What research has been done on forest or forest landscape embodied
+networks?
+2. What is the network structure? How can we characterize it?
+3. What can we say about the potential system dynamics based on
+   network structure?
+
+
+# Research: Network Analysis
+
+- LEMRIO global (Tian 2019)
+- LEMRIO local (Chen 2019)
+- Your LE-MRIO China
+- Your ENA analysis
+  - Small world
+  - Modularity
+  - Centrality
+  - Control
+  - Resilience
+
+
+# Research: Structural Analysis
+
+- Analysis = Structure = Robustness
+
+
+# Caveats
+
+- Limitations of MRIO
+- Potential impacts of storage lags and buffers
+
+
+# Future: Next up, climate change variability
+
+- Next up = Climate change impacts and global scale
+
+![lemrio_climate_change.jpeg](images/lemrio_climate_change.jpeg "lemrio_climate_change.jpeg")
+
+# Future: Next up, climate change variability
+
+![lemrio_climate_workflow.jpeg](images/lemrio_climate_workflow.jpeg "lemrio_climate_workflow.jpeg")
+
+# Q & A
+
+*This talk was made via Rmarkdown*

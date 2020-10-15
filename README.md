@@ -110,7 +110,8 @@ network?
 
 # Findings
 
-- LEMRIO (Chen 2019)
+- LEMRIO global (Tian 2019)
+- LEMRIO local (Chen 2019)
 - Your LE-MRIO China
 - Your ENA analysis
   - Small world
