@@ -57,6 +57,31 @@ address: Chinese Academy of Sciences and Harvard University
 
 ![lemrio_equation.jpeg](images/lemrio_equation.jpeg "lemrio_equation.jpeg")
 
+# wos_mrio_time.jpg
+
+![wos_mrio_time.jpg](images/wos_mrio_time.jpg "wos_mrio_time.jpg")
+
+
+# wos_mrio_auth.jpg
+
+![wos_mrio_auth.jpg](images/wos_mrio_auth.jpg "wos_mrio_auth.jpg")
+
+
+# wos_mrio_funding.jp
+
+![wos_mrio_funding.jpg](images/wos_mrio_funding.jpg "wos_mrio_funding.jpg")
+
+
+# wos_mrio_field.jp
+
+![wos_mrio_field.jpg](images/wos_mrio_field.jpg "wos_mrio_field.jpg")
+
+
+# wos_mrio_region.jpg
+
+![wos_mrio_region.jpg](images/wos_mrio_region.jpg "wos_mrio_region.jpg")
+
+
 # Background: Networks are Everywhere
 
 ![resourcetrade_network.jpeg](images/resourcetrade_network.jpeg "resourcetrade_network.jpeg")
