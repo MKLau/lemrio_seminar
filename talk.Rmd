@@ -158,6 +158,10 @@ address: Chinese Academy of Sciences and Harvard University
 
 ![](images/Wu_2018_Table1.png)
 
+# Methods: Model MRIO$_{China}$
+
+![](images/Wu_2018_Fig2.png)
+
 # Methods: Model Source
 
 
