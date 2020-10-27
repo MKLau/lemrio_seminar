@@ -131,6 +131,8 @@ address: Chinese Academy of Sciences and Harvard University
 - Structure linked to function (Donella Meadows)
 
 
+# Which metric?
+# Why information metrics?
 # Research: Why Chinese Forests?
 
 - Work = Forest Land Embodied in Trade
@@ -151,6 +153,12 @@ address: Chinese Academy of Sciences and Harvard University
 
 ![comtrade_china_imports_wood.jpeg](images/comtrade_china_imports_wood.jpeg "comtrade_china_imports_wood.jpeg")
 
+
+# Methods: Model Source
+
+# Methods: Model MRIO$_{China}$
+
+![](images/Fath_2015_Fig6.png)
 
 # Main Focus of Research
 
