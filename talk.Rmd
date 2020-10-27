@@ -154,11 +154,12 @@ address: Chinese Academy of Sciences and Harvard University
 ![comtrade_china_imports_wood.jpeg](images/comtrade_china_imports_wood.jpeg "comtrade_china_imports_wood.jpeg")
 
 
-# Methods: Model Source
-
 # Methods: Model MRIO$_{China}$
 
-![](images/Fath_2015_Fig6.png)
+![](images/Wu_2018_Table1.png)
+
+# Methods: Model Source
+
 
 # Main Focus of Research
 
@@ -186,6 +187,7 @@ networks?
 
 - Analysis = Structure = Robustness
 
+![](images/Fath_2015_Fig6.png)
 
 # Caveats
 
