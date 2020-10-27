@@ -162,7 +162,15 @@ address: Chinese Academy of Sciences and Harvard University
 
 ![](images/Wu_2018_Fig2.png)
 
+# Methods: Environmentally Extended Model MRIO$_{China}$
+
+![](images/china_eemrio.jpeg)
+
 # Methods: Model Source
+
+**NEED TO ADD FIGURE WITH DATA FLOWS**
+
+![exiobase3.jpg](images/exiobase3.jpg "exiobase3.jpg")
 
 
 # Main Focus of Research
