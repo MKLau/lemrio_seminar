@@ -24,6 +24,36 @@ address: Chinese Academy of Sciences and Harvard University
 - Complex systems = many players and indirect effects matter
 
 
+# A little money moves a lot of forest. 
+
+- Tian et al. 2019 showed that China consumes an equivalent amount of
+  domestic cropland as forest land, on the order of 10$^6$ km$^2$.
+- Looking at the domestic landuse productivity data for China, forests
+  have the lowest monetary productivity.
+- Thus, per unit monetary output a relatively larger amount of forest
+  land is used.
+  
+![](images/Tian_2019_Fig1.png)
+
+# A little money moves a lot of forest. 
+
+- Tian et al. 2019 showed that China consumes an equivalent amount of
+  domestic cropland as forest land, on the order of 10$^6$ km$^2$.
+- Looking at the domestic landuse productivity data for China, forests
+  have the lowest monetary productivity.
+- Thus, per unit monetary output a relatively larger amount of forest
+  land is used.
+
+![](images/prod_for_time_nec.png)
+
+# Global Landuse Trade and China
+
+![](images/Tian_2019_Fig2.png) 
+
+# Global Landuse Trade and China
+
+![](images/Tian_2019_Fig3.png) 
+
 # Background: Economy == Ecology
 
 - Economic trade data is a window into human impacts
@@ -164,6 +194,10 @@ networks?
 # Future: Next up, climate change variability
 
 ![lemrio_climate_workflow.jpeg](images/lemrio_climate_workflow.jpeg "lemrio_climate_workflow.jpeg")
+
+# Future Work: Remote Sensing Trade Models
+
+![](images/Moran_2020_Fig1.png)
 
 # Q & A
 
