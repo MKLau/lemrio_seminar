@@ -216,6 +216,13 @@ networks?
 
 ![](images/Fath_2015_Fig6.png)
 
+# Research: Structural Analysis
+
+- Overly efficient = Brittle
+- Overly redundant = Stagnant
+- Both can lead to niche opennings
+- Niches can then be filled by natural selection, adaptation or invasion
+
 
 # Forest Landscape Networks are More Efficient but Less Robust 
 
