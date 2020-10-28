@@ -3,13 +3,21 @@ title: Forested landscapes in the Anthropocene
 subtitle: The flow of Chinese forests both highly local and global
 author: M.K. Lau (Ph.D.)
 address: Chinese Academy of Sciences and Harvard University
-output:
-  beamer_presentation:
-    theme: "Pittsburgh"
-    colortheme: "spruce"
-    fonttheme: "structurebold"
 
 ---
+
+```{r opt-render, eval = FALSE, echo = FALSE}
+
+## output:
+##   beamer_presentation:
+##     theme: "Pittsburgh"
+##     colortheme: "spruce"
+##     fonttheme: "structurebold"
+
+rmarkdown::render("talk.Rmd", output_format = beamer_presentation(theme = "Pittsburgh", colortheme = "spruce", fonttheme = "structurebold")) 
+rmarkdown::render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares", latex_engine = "lualatex")) 
+
+```
 
 # Motivation
 
