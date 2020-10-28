@@ -3,6 +3,11 @@ title: Forested landscapes in the Anthropocene
 subtitle: The flow of Chinese forests both highly local and global
 author: M.K. Lau (Ph.D.)
 address: Chinese Academy of Sciences and Harvard University
+output:
+  beamer_presentation:
+    theme: "Pittsburgh"
+    colortheme: "spruce"
+    fonttheme: "structurebold"
 
 ---
 
@@ -170,6 +175,8 @@ address: Chinese Academy of Sciences and Harvard University
 
 **NEED TO ADD FIGURE WITH DATA FLOWS**
 
+*Maybe check the Mi 2018 supp mat*
+
 ![exiobase3.jpg](images/exiobase3.jpg "exiobase3.jpg")
 
 
@@ -200,6 +207,11 @@ networks?
 - Analysis = Structure = Robustness
 
 ![](images/Fath_2015_Fig6.png)
+
+
+# Forest Landscape Networks are More Efficient but Less Robust 
+
+![](images/for-rob-red.png)
 
 # Caveats
 
