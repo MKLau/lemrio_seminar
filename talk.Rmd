@@ -1,8 +1,10 @@
 ---
-title: Forested landscapes in the Anthropocene
-subtitle: The flow of Chinese forests both highly local and global
+title: Far Flung Forest Landscapes in the Anthropocene
+subtitle: Structural analysis of China's embodied forest network
 author: M.K. Lau (Ph.D.)
 address: Chinese Academy of Sciences and Harvard University
+header-includes:
+- \usepackage{graphicx}
 
 ---
 
@@ -14,10 +16,26 @@ address: Chinese Academy of Sciences and Harvard University
 ##     colortheme: "spruce"
 ##     fonttheme: "structurebold"
 
-rmarkdown::render("talk.Rmd", output_format = beamer_presentation(theme = "Pittsburgh", colortheme = "spruce", fonttheme = "structurebold")) 
-rmarkdown::render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares", latex_engine = "lualatex")) 
+library(rmarkdown)
+render("talk.Rmd", output_format = beamer_presentation(theme = "Pittsburgh", 
+                                                       colortheme = "spruce", 
+                                                       fonttheme = "structurebold")) 
+render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares", 
+                                                       latex_engine = "lualatex")) 
 
 ```
+
+	
+
+# OUTLINE
+
+- Intro/Context
+- Overview: Analyzing Economic and Ecological Systems
+- Landscape Extended Models
+- China's Forested Landscapes and Embodied Trade Networks
+- Resilience Analysis of China's Forest LE-MRIO
+- Conclusions and Future Work
+- Acknowledgements
 
 # Motivation
 
@@ -46,7 +64,7 @@ rmarkdown::render("talk.Rmd", output_format = beamer_presentation(theme = "Execu
 - Thus, per unit monetary output a relatively larger amount of forest
   land is used.
   
-![](images/Tian_2019_Fig1.png)
+![](images/Tian_2019_Fig1.png){#id .class width=50% height=50%}
 
 # A little money moves a lot of forest. 
 
