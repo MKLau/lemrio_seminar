@@ -64,9 +64,9 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares",
 - Thus, per unit monetary output a relatively larger amount of forest
   land is used.
   
-<center>
-![](images/Tian_2019_Fig1.png){#id .class width=50% height=50%}
-</center>
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/Tian_2019_Fig1.png")
+```
 
 # A little money moves a lot of forest. 
 
@@ -77,15 +77,21 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares",
 - Thus, per unit monetary output a relatively larger amount of forest
   land is used.
 
-![](images/prod_for_time_nec.png)
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/prod_for_time_nec.png")
+```
 
 # Global Landuse Trade and China
 
-![](images/Tian_2019_Fig2.png) 
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/Tian_2019_Fig2.png") 
+```
 
 # Global Landuse Trade and China
 
-![](images/Tian_2019_Fig3.png) 
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/Tian_2019_Fig3.png") 
+```
 
 # Background: Economy == Ecology
 
@@ -94,8 +100,9 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares",
 
 # Background: Input-Output Models
 
-![leontief_1936.png](images/leontief_1936.png "leontief_1936.png")
-
+```{r, echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/leontief_1936.png")
+```
 
 # Background: Input-Output Models
 
@@ -108,51 +115,71 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares",
 
 # Background: Input-Output Models
 
-![exiobase3.jpg](images/exiobase3.jpg "exiobase3.jpg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/exiobase3.jpg")
+```
 
 # Background: Environmental Extension
 
 - Allows for indirect/consumption based accounting
 
-![lemrio.jpeg](images/lemrio.jpeg "lemrio.jpeg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/lemrio.jpeg")
+```
 
 # Background: Environmental Extension
 
-![lemrio_equation.jpeg](images/lemrio_equation.jpeg "lemrio_equation.jpeg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/lemrio_equation.jpeg")
+```
 
 # wos_mrio_time.jpg
 
-![wos_mrio_time.jpg](images/wos_mrio_time.jpg "wos_mrio_time.jpg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/wos_mrio_time.jpg")
+```
 
 
 # wos_mrio_auth.jpg
 
-![wos_mrio_auth.jpg](images/wos_mrio_auth.jpg "wos_mrio_auth.jpg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/wos_mrio_auth.jpg")
+```
 
 
 # wos_mrio_funding.jp
 
-![wos_mrio_funding.jpg](images/wos_mrio_funding.jpg "wos_mrio_funding.jpg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/wos_mrio_funding.jpg")
+```
 
 
 # wos_mrio_field.jp
 
-![wos_mrio_field.jpg](images/wos_mrio_field.jpg "wos_mrio_field.jpg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/wos_mrio_field.jpg")
+```
 
 
 # wos_mrio_region.jpg
 
-![wos_mrio_region.jpg](images/wos_mrio_region.jpg "wos_mrio_region.jpg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/wos_mrio_region.jpg")
+```
 
 
 # Background: Networks are Everywhere
 
-![resourcetrade_network.jpeg](images/resourcetrade_network.jpeg "resourcetrade_network.jpeg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/resourcetrade_network.jpeg")
+```
 
 
 # Background: Networks are Everywhere
 
-![example_network.jpeg](images/example_network.jpeg "example_network.jpeg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/example_network.jpeg")
+```
 
 
 # Background: Ecological Network Analysis
@@ -180,24 +207,34 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares",
 
 # Research: Why Chinese Forests?
 
-![Forest_Cover_China.JPG](images/Forest_Cover_China.JPG "Forest_Cover_China.JPG")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/Forest_Cover_China.JPG")
+```
 
 # Research: Why Chinese Forests?
 
-![comtrade_china_imports_wood.jpeg](images/comtrade_china_imports_wood.jpeg "comtrade_china_imports_wood.jpeg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/comtrade_china_imports_wood.jpeg")
+```
 
 
 # Methods: Model MRIO$_{China}$
 
-![](images/Wu_2018_Table1.png)
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/Wu_2018_Table1.png")
+```
 
 # Methods: Model MRIO$_{China}$
 
-![](images/Wu_2018_Fig2.png)
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/Wu_2018_Fig2.png")
+```
 
 # Methods: Environmentally Extended Model MRIO$_{China}$
 
-![](images/china_eemrio.jpeg)
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/china_eemrio.jpeg")
+```
 
 # Methods: Model Source
 
@@ -205,7 +242,9 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares",
 
 *Maybe check the Mi 2018 supp mat*
 
-![exiobase3.jpg](images/exiobase3.jpg "exiobase3.jpg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/exiobase3.jpg")
+```
 
 
 # Main Focus of Research
@@ -234,7 +273,9 @@ networks?
 
 - Analysis = Structure = Robustness
 
-![](images/Fath_2015_Fig6.png)
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/Fath_2015_Fig6.png")
+```
 
 # Research: Structural Analysis
 
@@ -246,7 +287,9 @@ networks?
 
 # Forest Landscape Networks are More Efficient but Less Robust 
 
-![](images/for-rob-red.png)
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/for-rob-red.png")
+```
 
 # Caveats
 
@@ -258,15 +301,21 @@ networks?
 
 - Next up = Climate change impacts and global scale
 
-![lemrio_climate_change.jpeg](images/lemrio_climate_change.jpeg "lemrio_climate_change.jpeg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/lemrio_climate_change.jpeg")
+```
 
 # Future: Next up, climate change variability
 
-![lemrio_climate_workflow.jpeg](images/lemrio_climate_workflow.jpeg "lemrio_climate_workflow.jpeg")
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/lemrio_climate_workflow.jpeg")
+```
 
 # Future Work: Remote Sensing Trade Models
 
-![](images/Moran_2020_Fig1.png)
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/Moran_2020_Fig1.png")
+```
 
 # Q & A
 
