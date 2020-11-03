@@ -48,12 +48,19 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares",
 # Overview
 
 
-# Background: Anthropocene
+# The Anthropocene
 
 - Humans = dominant global impact -> Anthropocene
-- Indirect effecs and The far reach of the city
-- Complex systems = many players and indirect effects matter
 
+# The "S"-Word
+
+- Indirect effecs and The far reach of the city
+- Complex systems = many players and indirect effects matter (surprising)
+
+
+# Forests are important!
+
+Forest Images
 
 # A little money moves a lot of forest. 
 
@@ -307,15 +314,17 @@ knitr::include_graphics("images/lemrio_climate_change.jpeg")
 
 # Future: Next up, climate change variability
 
-```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+```{r , echo = FALSE, out.width = "10%", fig.align = "center"}
 knitr::include_graphics("images/lemrio_climate_workflow.jpeg")
 ```
 
 # Future Work: Remote Sensing Trade Models
 
-```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+```{r , echo = FALSE, out.width = "10%", fig.align = "center"}
 knitr::include_graphics("images/Moran_2020_Fig1.png")
 ```
+
+
 
 # Q & A
 
