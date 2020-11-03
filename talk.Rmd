@@ -64,7 +64,9 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares",
 - Thus, per unit monetary output a relatively larger amount of forest
   land is used.
   
+<center>
 ![](images/Tian_2019_Fig1.png){#id .class width=50% height=50%}
+</center>
 
 # A little money moves a lot of forest. 
 
