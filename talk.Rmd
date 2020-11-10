@@ -4,7 +4,8 @@ subtitle: Structural analysis of China's embodied forest network
 author: M.K. Lau (Ph.D.)
 address: Chinese Academy of Sciences and Harvard University
 header-includes:
-- \usepackage{graphicx}
+    \usepackage{graphicx}
+    \usepackage{tikz}
 
 ---
 
@@ -20,8 +21,8 @@ library(rmarkdown)
 render("talk.Rmd", output_format = beamer_presentation(theme = "Pittsburgh", 
                                                        colortheme = "spruce", 
                                                        fonttheme = "structurebold")) 
-render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares", 
-                                                       latex_engine = "lualatex")) 
+## render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares", 
+##                                                        latex_engine = "lualatex")) 
 
 ```
 
@@ -199,7 +200,11 @@ knitr::include_graphics("images/example_network.jpeg")
 
 
 # Which metric?
+
+
 # Why information metrics?
+
+
 # Research: Why Chinese Forests?
 
 - Work = Forest Land Embodied in Trade
@@ -328,4 +333,4 @@ knitr::include_graphics("images/Moran_2020_Fig1.png")
 
 # Q & A
 
-*This talk was made via Rmarkdown*
+
