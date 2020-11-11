@@ -26,28 +26,20 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Pittsburgh",
 
 ```
 
-	
 
-# OUTLINE
+# 
+
+
+
+
+# Overview
 
 - Intro/Context
   - Forests are globally important
-	- biodiversity
-	- water and nutrient cycling
-	- carbon storage
-	- resources(wood, food)
-	- culturally
   - Anthropocence effects 
-	- Global = Climate Change
-	- Indirect Effects Significant
   - Global forest loss and gain and change
 	- Global greening = India(Agriculture) + China(Forests)
 - Economics*Ecology = Landscape Extended Models
-  - Brief history of IO and ENA analyses
-  - Global Trade Models
-  - Trade Networks MRIO = Sectors + Regions
-  - Environmental Extensions
-  - Forested Landscapes and Embodied Trade Networks
 - Network Analysis of China's Greening
   - Global Scale
   - Local Scale
@@ -56,30 +48,42 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Pittsburgh",
 - Conclusions and Future Work
 - Acknowledgements
 
-# Motivation
-
-- Ecological studies are now embeded in the anthropocene
-- Interconnected world
-- Global environmental change
-- Complex systems at global scales
-
 
 # Overview
+
+
+
+# Globally Forests are Important
+
+- biodiversity
+- water and nutrient cycling
+- carbon storage
+- resources(wood, food)
+- culturally
 
 
 # The Anthropocene
 
 - Humans = dominant global impact -> Anthropocene
+- Global = Climate Change
+- Indirect Effects Significant
 
-# The "S"-Word
+
+# In the Anthropocene, Economy is Global Ecology
+
+- Economic trade data is a window into human impacts
+- Brief history of IO and ENA analyses
+- Global Trade Models
+- Trade Networks MRIO = Sectors + Regions
+- Environmental Extensions
+- Forested Landscapes and Embodied Trade Networks
+
+
+# Interactions/Trade = Complex Systems
 
 - Indirect effecs and The far reach of the city
 - Complex systems = many players and indirect effects matter (surprising)
 
-
-# Forests are important!
-
-Forest Images
 
 # A little money moves a lot of forest. 
 
@@ -118,10 +122,6 @@ knitr::include_graphics("images/Tian_2019_Fig2.png")
 ```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
 knitr::include_graphics("images/Tian_2019_Fig3.png") 
 ```
-
-# Background: Economy == Ecology
-
-- Economic trade data is a window into human impacts
 
 
 # Background: Input-Output Models
