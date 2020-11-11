@@ -31,10 +31,28 @@ render("talk.Rmd", output_format = beamer_presentation(theme = "Pittsburgh",
 # OUTLINE
 
 - Intro/Context
-- Overview: Analyzing Economic and Ecological Systems
-- Landscape Extended Models
-- China's Forested Landscapes and Embodied Trade Networks
-- Resilience Analysis of China's Forest LE-MRIO
+  - Forests are globally important
+	- biodiversity
+	- water and nutrient cycling
+	- carbon storage
+	- resources(wood, food)
+	- culturally
+  - Anthropocence effects 
+	- Global = Climate Change
+	- Indirect Effects Significant
+  - Global forest loss and gain and change
+	- Global greening = India(Agriculture) + China(Forests)
+- Economics*Ecology = Landscape Extended Models
+  - Brief history of IO and ENA analyses
+  - Global Trade Models
+  - Trade Networks MRIO = Sectors + Regions
+  - Environmental Extensions
+  - Forested Landscapes and Embodied Trade Networks
+- Network Analysis of China's Greening
+  - Global Scale
+  - Local Scale
+	- Landscape = Chen 2019
+	- Resilience Analysis of China's Forest LE-MRIO
 - Conclusions and Future Work
 - Acknowledgements
 
