@@ -20,14 +20,15 @@ header-includes:
 library(rmarkdown)
 render("talk.Rmd", output_format = beamer_presentation(theme = "Pittsburgh", 
                                                        colortheme = "spruce", 
-                                                       fonttheme = "structurebold")) 
+                                                       fonttheme = "structurebold"))
+
+render("talk.Rmd", output_format = html_document(toc = TRUE, theme = "journal"))
 ## render("talk.Rmd", output_format = beamer_presentation(theme = "Execushares", 
 ##                                                        latex_engine = "lualatex")) 
 
 ```
 
 
-# 
 
 
 
