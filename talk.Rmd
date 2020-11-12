@@ -271,10 +271,13 @@ knitr::include_graphics("images/wos_mrio_region.jpg")
 
 # Which metric?
 
+- Information
+
 
 # Why information metrics?
 
-
+- Related to Shannon Information/Diversity index
+- $H = -\sum_i^n p_i \log{p_i} $
 
 # Methods: Model MRIO$_{China}$
 
