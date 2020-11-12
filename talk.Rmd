@@ -50,11 +50,7 @@ render("talk.Rmd", output_format = html_document(toc = TRUE, theme = "journal"))
 - Acknowledgements
 
 
-# Overview
-
-
-
-# Globally Forests are Important
+# Forests are Important Globally
 
 - biodiversity
 - water and nutrient cycling
@@ -85,6 +81,83 @@ render("talk.Rmd", output_format = html_document(toc = TRUE, theme = "journal"))
 - Indirect effecs and The far reach of the city
 - Complex systems = many players and indirect effects matter (surprising)
 
+
+
+
+# How do we study forests in this context?
+
+# Background: Networks are Everywhere
+
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/resourcetrade_network.jpeg")
+```
+
+
+# Background: Networks are Everywhere
+
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/example_network.jpeg")
+```
+
+
+# Background: Ecological Network Analysis
+
+- Ecological network theory provides predictions and metrics (Lau 2017)
+- Systems theory provides strategies for inteventions
+- ENA <- Odums, MacArthur, Ulanowicz, Patten,
+- SNA -> ecological networks (Watts and Strogatz, etc.)
+- Structure linked to function (Donella Meadows)
+
+
+# Research: Why Chinese Forests?
+
+- Work = Forest Land Embodied in Trade
+
+
+# Global forest loss and gain and change
+
+
+
+# Global greening
+
+
+
+# Global greening = India(Agriculture) + China(Forests)
+
+- India is greening agriculturally
+
+# Global greening = India(Agriculture) + China(Forests)
+
+- China is greening through reforestation 
+
+
+# A Brief History of Forest Time in China
+
+- China is big and diverse (Tropical to Alpine/Boreal)
+- Long history of human habitation in China
+- Historically, two primary regions of forestry
+- Forest conservation impacts harvest
+- Flows within China and among countries globally important
+
+
+# Research: Why Chinese Forests?
+
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/Forest_Cover_China.JPG")
+```
+
+# Research: Why Chinese Forests?
+
+```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
+knitr::include_graphics("images/comtrade_china_imports_wood.jpeg")
+```
+
+# Network Analysis of China's Greening
+
+- Global Scale
+- Local Scale
+   - Landscape = Chen 2019
+   - Resilience Analysis of China's Forest LE-MRIO
 
 # A little money moves a lot of forest. 
 
@@ -195,58 +268,12 @@ knitr::include_graphics("images/wos_mrio_region.jpg")
 ```
 
 
-# Background: Networks are Everywhere
-
-```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
-knitr::include_graphics("images/resourcetrade_network.jpeg")
-```
-
-
-# Background: Networks are Everywhere
-
-```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
-knitr::include_graphics("images/example_network.jpeg")
-```
-
-
-# Background: Ecological Network Analysis
-
-- Ecological network theory provides predictions and metrics (Lau 2017)
-- Systems theory provides strategies for inteventions
-- ENA <- Odums, MacArthur, Ulanowicz, Patten,
-- SNA -> ecological networks (Watts and Strogatz, etc.)
-- Structure linked to function (Donella Meadows)
-
 
 # Which metric?
 
 
 # Why information metrics?
 
-
-# Research: Why Chinese Forests?
-
-- Work = Forest Land Embodied in Trade
-
-# A Brief History of Forest Time in China
-
-- China is big and diverse
-- Long history of human habitation in China
-- Historically, two primary regions of forestry
-- Forest conservation impacts harvest
-- Flows within China and among countries globally important
-
-# Research: Why Chinese Forests?
-
-```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
-knitr::include_graphics("images/Forest_Cover_China.JPG")
-```
-
-# Research: Why Chinese Forests?
-
-```{r , echo = FALSE, out.width = "50%", fig.align = "center"}
-knitr::include_graphics("images/comtrade_china_imports_wood.jpeg")
-```
 
 
 # Methods: Model MRIO$_{China}$
