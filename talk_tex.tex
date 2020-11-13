@@ -111,6 +111,19 @@
      \end{frame}
 }
 
+{ % all template changes are local to this group.
+    \setbeamertemplate{navigation symbols}{}
+    \begin{frame}<article:0>[plain]
+        \begin{tikzpicture}[remember picture,overlay]
+            \node[at=(current page.center)] {
+                \includegraphics[keepaspectratio,
+                                 height=\paperheight]{images/CNF/IMG_0199.JPG}
+            };
+        \end{tikzpicture}
+     \end{frame}
+}
+
+
 
 \begin{frame}
   \frametitle{How do we study forests in this context?}
