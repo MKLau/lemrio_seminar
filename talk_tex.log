@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.5.6)  12 NOV 2020 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.5.6)  13 NOV 2020 09:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -738,12 +738,12 @@ LaTeX Font Info:    ... okay on input line 15.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
-* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
-* \paperwidth=364.19536pt
-* \paperheight=273.14662pt
-* \textwidth=307.28987pt
-* \textheight=244.6939pt
+* h-part:(L,W,R)=(28.45274pt, 398.3386pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
+* \paperwidth=455.24408pt
+* \paperheight=256.0748pt
+* \textwidth=398.3386pt
+* \textheight=227.62207pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
 * \topmargin=-72.26999pt
@@ -925,7 +925,7 @@ thkerncmss.
 File: images/CNF/IMG_0194.JPG Graphic file (type jpg)
 <use images/CNF/IMG_0194.JPG>
 Package pdftex.def Info: images/CNF/IMG_0194.JPG  used on input line 111.
-(pdftex.def)             Requested size: 364.23218pt x 273.14662pt.
+(pdftex.def)             Requested size: 341.46652pt x 256.0748pt.
  [7
 
  <./images/CNF/IMG_0194.JPG>] [8
@@ -936,7 +936,7 @@ File: images/resourcetrade_network.jpeg Graphic file (type jpg)
 <use images/resourcetrade_network.jpeg>
 Package pdftex.def Info: images/resourcetrade_network.jpeg  used on input line 
 128.
-(pdftex.def)             Requested size: 153.64493pt x 86.3784pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
  [9
 
  <./images/resourcetrade_network.jpeg>]
@@ -944,7 +944,7 @@ File: images/resourcetrade_network.jpeg Graphic file (type jpg)
 <use images/resourcetrade_network.jpeg>
 Package pdftex.def Info: images/resourcetrade_network.jpeg  used on input line 
 137.
-(pdftex.def)             Requested size: 153.64493pt x 86.3784pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
  [10
 
 ]
@@ -952,7 +952,7 @@ Package pdftex.def Info: images/resourcetrade_network.jpeg  used on input line
 File: images/example_network.jpeg Graphic file (type jpg)
 <use images/example_network.jpeg>
 Package pdftex.def Info: images/example_network.jpeg  used on input line 145.
-(pdftex.def)             Requested size: 153.64493pt x 86.3784pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
  [11
 
  <./images/example_network.jpeg>] [12
@@ -976,7 +976,7 @@ File: images/Forest_Cover_China.JPG Graphic file (type jpg)
 <use images/Forest_Cover_China.JPG>
 Package pdftex.def Info: images/Forest_Cover_China.JPG  used on input line 222.
 
-(pdftex.def)             Requested size: 153.64493pt x 115.22633pt.
+(pdftex.def)             Requested size: 199.1693pt x 149.3774pt.
  [19
 
  <./images/Forest_Cover_China.JPG>]
@@ -985,7 +985,7 @@ File: images/comtrade_china_imports_wood.jpeg Graphic file (type jpg)
 <use images/comtrade_china_imports_wood.jpeg>
 Package pdftex.def Info: images/comtrade_china_imports_wood.jpeg  used on input
  line 229.
-(pdftex.def)             Requested size: 153.64493pt x 86.3784pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
  [20
 
  <./images/comtrade_china_imports_wood.jpeg>] [21
@@ -995,7 +995,7 @@ Package pdftex.def Info: images/comtrade_china_imports_wood.jpeg  used on input
 File: images/Tian_2019_Fig1.png Graphic file (type png)
 <use images/Tian_2019_Fig1.png>
 Package pdftex.def Info: images/Tian_2019_Fig1.png  used on input line 257.
-(pdftex.def)             Requested size: 153.64493pt x 86.37326pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
  [22
 
  <./images/Tian_2019_Fig1.png>]
@@ -1003,9 +1003,9 @@ Package pdftex.def Info: images/Tian_2019_Fig1.png  used on input line 257.
 File: images/prod_for_time_nec.png Graphic file (type png)
 <use images/prod_for_time_nec.png>
 Package pdftex.def Info: images/prod_for_time_nec.png  used on input line 275.
-(pdftex.def)             Requested size: 153.64493pt x 153.64247pt.
+(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
 
-Overfull \vbox (19.20528pt too high) detected at line 275
+Overfull \vbox (56.72777pt too high) detected at line 275
  []
 
 [23
@@ -1015,7 +1015,7 @@ Overfull \vbox (19.20528pt too high) detected at line 275
 File: images/Tian_2019_Fig2.png Graphic file (type png)
 <use images/Tian_2019_Fig2.png>
 Package pdftex.def Info: images/Tian_2019_Fig2.png  used on input line 281.
-(pdftex.def)             Requested size: 153.64493pt x 86.37326pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
  [24
 
  <./images/Tian_2019_Fig2.png>]
@@ -1023,7 +1023,7 @@ Package pdftex.def Info: images/Tian_2019_Fig2.png  used on input line 281.
 File: images/Tian_2019_Fig3.png Graphic file (type png)
 <use images/Tian_2019_Fig3.png>
 Package pdftex.def Info: images/Tian_2019_Fig3.png  used on input line 287.
-(pdftex.def)             Requested size: 153.64493pt x 86.37326pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
 
 [25
 
@@ -1032,7 +1032,7 @@ Package pdftex.def Info: images/Tian_2019_Fig3.png  used on input line 287.
 File: images/leontief_1936.png Graphic file (type png)
 <use images/leontief_1936.png>
 Package pdftex.def Info: images/leontief_1936.png  used on input line 293.
-(pdftex.def)             Requested size: 153.64493pt x 143.70534pt.
+(pdftex.def)             Requested size: 199.1693pt x 186.28947pt.
  [26
 
  <./images/leontief_1936.png>] [27
@@ -1042,7 +1042,7 @@ Package pdftex.def Info: images/leontief_1936.png  used on input line 293.
 File: images/exiobase3.jpg Graphic file (type jpg)
 <use images/exiobase3.jpg>
 Package pdftex.def Info: images/exiobase3.jpg  used on input line 318.
-(pdftex.def)             Requested size: 153.64493pt x 64.87305pt.
+(pdftex.def)             Requested size: 199.1693pt x 84.09476pt.
 
 [28
 
@@ -1051,7 +1051,7 @@ Package pdftex.def Info: images/exiobase3.jpg  used on input line 318.
 File: images/lemrio.jpeg Graphic file (type jpg)
 <use images/lemrio.jpeg>
 Package pdftex.def Info: images/lemrio.jpeg  used on input line 329.
-(pdftex.def)             Requested size: 153.64493pt x 86.3784pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
  [29
 
  <./images/lemrio.jpeg>]
@@ -1059,7 +1059,7 @@ Package pdftex.def Info: images/lemrio.jpeg  used on input line 329.
 File: images/lemrio_equation.jpeg Graphic file (type jpg)
 <use images/lemrio_equation.jpeg>
 Package pdftex.def Info: images/lemrio_equation.jpeg  used on input line 335.
-(pdftex.def)             Requested size: 153.64493pt x 86.3784pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
  [30
 
  <./images/lemrio_equation.jpeg>]
@@ -1067,7 +1067,7 @@ Package pdftex.def Info: images/lemrio_equation.jpeg  used on input line 335.
 File: images/wos_mrio_time.jpg Graphic file (type jpg)
 <use images/wos_mrio_time.jpg>
 Package pdftex.def Info: images/wos_mrio_time.jpg  used on input line 341.
-(pdftex.def)             Requested size: 153.64493pt x 74.1048pt.
+(pdftex.def)             Requested size: 199.1693pt x 96.0633pt.
  [31
 
  <./images/wos_mrio_time.jpg>]
@@ -1075,7 +1075,7 @@ Package pdftex.def Info: images/wos_mrio_time.jpg  used on input line 341.
 File: images/wos_mrio_auth.jpg Graphic file (type jpg)
 <use images/wos_mrio_auth.jpg>
 Package pdftex.def Info: images/wos_mrio_auth.jpg  used on input line 347.
-(pdftex.def)             Requested size: 153.64493pt x 74.1048pt.
+(pdftex.def)             Requested size: 199.1693pt x 96.0633pt.
  [32
 
  <./images/wos_mrio_auth.jpg>]
@@ -1083,7 +1083,7 @@ Package pdftex.def Info: images/wos_mrio_auth.jpg  used on input line 347.
 File: images/wos_mrio_funding.jpg Graphic file (type jpg)
 <use images/wos_mrio_funding.jpg>
 Package pdftex.def Info: images/wos_mrio_funding.jpg  used on input line 353.
-(pdftex.def)             Requested size: 153.64493pt x 74.1048pt.
+(pdftex.def)             Requested size: 199.1693pt x 96.0633pt.
  [33
 
  <./images/wos_mrio_funding.jpg>]
@@ -1091,7 +1091,7 @@ Package pdftex.def Info: images/wos_mrio_funding.jpg  used on input line 353.
 File: images/wos_mrio_field.jpg Graphic file (type jpg)
 <use images/wos_mrio_field.jpg>
 Package pdftex.def Info: images/wos_mrio_field.jpg  used on input line 359.
-(pdftex.def)             Requested size: 153.64493pt x 74.1048pt.
+(pdftex.def)             Requested size: 199.1693pt x 96.0633pt.
  [34
 
  <./images/wos_mrio_field.jpg>]
@@ -1099,7 +1099,7 @@ Package pdftex.def Info: images/wos_mrio_field.jpg  used on input line 359.
 File: images/wos_mrio_region.jpg Graphic file (type jpg)
 <use images/wos_mrio_region.jpg>
 Package pdftex.def Info: images/wos_mrio_region.jpg  used on input line 365.
-(pdftex.def)             Requested size: 153.64493pt x 74.1048pt.
+(pdftex.def)             Requested size: 199.1693pt x 96.0633pt.
 
 [35
 
@@ -1112,7 +1112,7 @@ Package pdftex.def Info: images/wos_mrio_region.jpg  used on input line 365.
 File: images/Wu_2018_Table1.png Graphic file (type png)
 <use images/Wu_2018_Table1.png>
 Package pdftex.def Info: images/Wu_2018_Table1.png  used on input line 391.
-(pdftex.def)             Requested size: 153.64493pt x 86.37326pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
  [38
 
  <./images/Wu_2018_Table1.png>]
@@ -1120,7 +1120,7 @@ Package pdftex.def Info: images/Wu_2018_Table1.png  used on input line 391.
 File: images/Wu_2018_Fig2.png Graphic file (type png)
 <use images/Wu_2018_Fig2.png>
 Package pdftex.def Info: images/Wu_2018_Fig2.png  used on input line 397.
-(pdftex.def)             Requested size: 153.64493pt x 86.37326pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
  [39
 
  <./images/Wu_2018_Fig2.png>]
@@ -1128,14 +1128,14 @@ Package pdftex.def Info: images/Wu_2018_Fig2.png  used on input line 397.
 File: images/china_eemrio.jpeg Graphic file (type jpg)
 <use images/china_eemrio.jpeg>
 Package pdftex.def Info: images/china_eemrio.jpeg  used on input line 403.
-(pdftex.def)             Requested size: 153.64493pt x 86.3784pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
  [40
 
  <./images/china_eemrio.jpeg>]
 File: images/exiobase3.jpg Graphic file (type jpg)
 <use images/exiobase3.jpg>
 Package pdftex.def Info: images/exiobase3.jpg  used on input line 413.
-(pdftex.def)             Requested size: 153.64493pt x 64.87305pt.
+(pdftex.def)             Requested size: 199.1693pt x 84.09476pt.
  [41
 
 ]
@@ -1148,7 +1148,7 @@ Package pdftex.def Info: images/exiobase3.jpg  used on input line 413.
 File: images/Fath_2015_Fig6.png Graphic file (type png)
 <use images/Fath_2015_Fig6.png>
 Package pdftex.def Info: images/Fath_2015_Fig6.png  used on input line 467.
-(pdftex.def)             Requested size: 153.64493pt x 86.37326pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
  [44
 
  <./images/Fath_2015_Fig6.png>] [45
@@ -1158,7 +1158,7 @@ Package pdftex.def Info: images/Fath_2015_Fig6.png  used on input line 467.
 File: images/for-rob-red.png Graphic file (type png)
 <use images/for-rob-red.png>
 Package pdftex.def Info: images/for-rob-red.png  used on input line 489.
-(pdftex.def)             Requested size: 153.64493pt x 153.64523pt.
+(pdftex.def)             Requested size: 199.1693pt x 199.16736pt.
  [46
 
  <./images/for-rob-red.png (PNG copy)>] [47
@@ -1169,7 +1169,7 @@ File: images/lemrio_climate_change.jpeg Graphic file (type jpg)
 <use images/lemrio_climate_change.jpeg>
 Package pdftex.def Info: images/lemrio_climate_change.jpeg  used on input line 
 511.
-(pdftex.def)             Requested size: 153.64493pt x 86.3784pt.
+(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
  [48
 
  <./images/lemrio_climate_change.jpeg>]
@@ -1178,7 +1178,7 @@ File: images/lemrio_climate_workflow.jpeg Graphic file (type jpg)
 <use images/lemrio_climate_workflow.jpeg>
 Package pdftex.def Info: images/lemrio_climate_workflow.jpeg  used on input lin
 e 517.
-(pdftex.def)             Requested size: 30.73085pt x 17.27733pt.
+(pdftex.def)             Requested size: 39.83629pt x 22.38858pt.
  [49
 
  <./images/lemrio_climate_workflow.jpeg>]
@@ -1186,7 +1186,7 @@ e 517.
 File: images/Moran_2020_Fig1.png Graphic file (type png)
 <use images/Moran_2020_Fig1.png>
 Package pdftex.def Info: images/Moran_2020_Fig1.png  used on input line 523.
-(pdftex.def)             Requested size: 30.73085pt x 54.68391pt.
+(pdftex.def)             Requested size: 39.83629pt x 70.8835pt.
  [50
 
  <./images/Moran_2020_Fig1.png>] [51
@@ -1209,11 +1209,15 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 529.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 529.
 Package rerunfilecheck Info: File `talk_tex.out' has not changed.
 (rerunfilecheck)             Checksum: 35B824CB441AF6CE5865B7DA08C27790;92.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  20440 strings out of 494485
  402443 string characters out of 6175793
- 464182 words of memory out of 5000000
+ 463187 words of memory out of 5000000
  23525 multiletter control sequences out of 15000+600000
  17954 words of font info for 65 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
@@ -1225,7 +1229,7 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on talk_tex.pdf (51 pages, 14344950 bytes).
+Output written on talk_tex.pdf (51 pages, 14345063 bytes).
 PDF statistics:
  383 PDF objects out of 1000 (max. 8388607)
  280 compressed objects within 3 object streams
