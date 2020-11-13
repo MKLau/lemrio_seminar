@@ -1,2 +1,8 @@
 \beamer@sectionintoc {1}{Context}{3}{0}{1}
-\beamer@sectionintoc {2}{China's Forests}{13}{0}{2}
+\beamer@sectionintoc {2}{Economic and Ecological Landscape Extensions}{4}{0}{2}
+\beamer@sectionintoc {3}{Trade Networks of Forest Landscapes}{4}{0}{3}
+\beamer@sectionintoc {4}{Global Forest Networks}{4}{0}{4}
+\beamer@sectionintoc {5}{China's Forest Networks: Global}{4}{0}{5}
+\beamer@sectionintoc {6}{China's Forest Networks: Domestic/Local}{4}{0}{6}
+\beamer@sectionintoc {7}{Conclusions}{4}{0}{7}
+\beamer@sectionintoc {8}{Future Work}{4}{0}{8}

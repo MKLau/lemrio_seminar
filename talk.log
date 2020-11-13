@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.5.6)  13 NOV 2020 09:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.5.6)  13 NOV 2020 10:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -712,23 +712,28 @@ File: pgfmodulematrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2019/02/02 v3.1.1 (3.1.1)
-))) (./talk.aux)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (./talk.aux)
 \openout1 = `talk.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -796,7 +801,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring OFF on input line 15.
+Package hyperref Info: Link coloring OFF on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -806,66 +811,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count171
 )
-LaTeX Info: Redefining \ref on input line 15.
-LaTeX Info: Redefining \pageref on input line 15.
-LaTeX Info: Redefining \nameref on input line 15.
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
 
 (./talk.out) (./talk.out)
 \@outlinefile=\write5
 \openout5 = `talk.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 15.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 15.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 16.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 15.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 15.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 15.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 15.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 15.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 15.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 15.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 16.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 15.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 15.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 15.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 15.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 15.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 15.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 15.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 15.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 15.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 15.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 16.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 16.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-5.
+6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-15.
+16.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 15.
+ut line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -895,18 +900,18 @@ Dictionary: translator-theorem-dictionary, Language: English
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./talk.toc) [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 57.
+LaTeX Font Info:    Try loading font information for U+msa on input line 58.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 57.
+LaTeX Font Info:    Try loading font information for U+msb on input line 58.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 57.
+line 58.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -916,289 +921,23 @@ thkerncmss.
 
 ] [4
 
-] [5
-
-] [6
-
 ]
-<images/CNF/IMG_0194.JPG, id=59, 401.5pt x 301.125pt>
-File: images/CNF/IMG_0194.JPG Graphic file (type jpg)
-<use images/CNF/IMG_0194.JPG>
-Package pdftex.def Info: images/CNF/IMG_0194.JPG  used on input line 111.
-(pdftex.def)             Requested size: 455.24408pt x 341.45732pt.
- [7
-
- <./images/CNF/IMG_0194.JPG>]
-<images/CNF/IMG_0199.JPG, id=66, 401.5pt x 267.49937pt>
+<images/CNF/IMG_0199.JPG, id=78, 401.5pt x 267.49937pt>
 File: images/CNF/IMG_0199.JPG Graphic file (type jpg)
 <use images/CNF/IMG_0199.JPG>
-Package pdftex.def Info: images/CNF/IMG_0199.JPG  used on input line 125.
+Package pdftex.def Info: images/CNF/IMG_0199.JPG  used on input line 103.
 (pdftex.def)             Requested size: 455.24408pt x 303.32791pt.
- [8
+ [5
 
- <./images/CNF/IMG_0199.JPG>] [9
+ <./images/CNF/IMG_0199.JPG>] [6
 
-]
-<images/resourcetrade_network.jpeg, id=77, 964.0818pt x 542.025pt>
-File: images/resourcetrade_network.jpeg Graphic file (type jpg)
-<use images/resourcetrade_network.jpeg>
-Package pdftex.def Info: images/resourcetrade_network.jpeg  used on input line 
-141.
-(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
- [10
-
- <./images/resourcetrade_network.jpeg>]
-File: images/resourcetrade_network.jpeg Graphic file (type jpg)
-<use images/resourcetrade_network.jpeg>
-Package pdftex.def Info: images/resourcetrade_network.jpeg  used on input line 
-150.
-(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
- [11
-
-]
-<images/example_network.jpeg, id=88, 964.0818pt x 542.025pt>
-File: images/example_network.jpeg Graphic file (type jpg)
-<use images/example_network.jpeg>
-Package pdftex.def Info: images/example_network.jpeg  used on input line 158.
-(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
- [12
-
- <./images/example_network.jpeg>] [13
-
-] [14
-
-] [15
-
-] [16
-
-] [17
-
-] [18
-
-] [19
-
-]
-<images/Forest_Cover_China.JPG, id=130, 867.24pt x 650.43pt>
-File: images/Forest_Cover_China.JPG Graphic file (type jpg)
-<use images/Forest_Cover_China.JPG>
-Package pdftex.def Info: images/Forest_Cover_China.JPG  used on input line 235.
-
-(pdftex.def)             Requested size: 199.1693pt x 149.3774pt.
- [20
-
- <./images/Forest_Cover_China.JPG>]
-<images/comtrade_china_imports_wood.jpeg, id=136, 964.0818pt x 542.025pt>
-File: images/comtrade_china_imports_wood.jpeg Graphic file (type jpg)
-<use images/comtrade_china_imports_wood.jpeg>
-Package pdftex.def Info: images/comtrade_china_imports_wood.jpeg  used on input
- line 242.
-(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
- [21
-
- <./images/comtrade_china_imports_wood.jpeg>] [22
-
-]
-<images/Tian_2019_Fig1.png, id=147, 1371.1225pt x 770.88pt>
-File: images/Tian_2019_Fig1.png Graphic file (type png)
-<use images/Tian_2019_Fig1.png>
-Package pdftex.def Info: images/Tian_2019_Fig1.png  used on input line 270.
-(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
- [23
-
- <./images/Tian_2019_Fig1.png>]
-<images/prod_for_time_nec.png, id=154, 481.8pt x 481.8pt>
-File: images/prod_for_time_nec.png Graphic file (type png)
-<use images/prod_for_time_nec.png>
-Package pdftex.def Info: images/prod_for_time_nec.png  used on input line 288.
-(pdftex.def)             Requested size: 199.1693pt x 199.16399pt.
-
-Overfull \vbox (56.72777pt too high) detected at line 288
+] (./talk.bbl)
+Overfull \vbox (42.90146pt too high) detected at line 118
  []
 
-[24
+[7
 
- <./images/prod_for_time_nec.png>]
-<images/Tian_2019_Fig2.png, id=161, 1371.1225pt x 770.88pt>
-File: images/Tian_2019_Fig2.png Graphic file (type png)
-<use images/Tian_2019_Fig2.png>
-Package pdftex.def Info: images/Tian_2019_Fig2.png  used on input line 294.
-(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
- [25
-
- <./images/Tian_2019_Fig2.png>]
-<images/Tian_2019_Fig3.png, id=168, 1371.1225pt x 770.88pt>
-File: images/Tian_2019_Fig3.png Graphic file (type png)
-<use images/Tian_2019_Fig3.png>
-Package pdftex.def Info: images/Tian_2019_Fig3.png  used on input line 300.
-(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
-
-[26
-
- <./images/Tian_2019_Fig3.png>]
-<images/leontief_1936.png, id=174, 823.075pt x 769.87625pt>
-File: images/leontief_1936.png Graphic file (type png)
-<use images/leontief_1936.png>
-Package pdftex.def Info: images/leontief_1936.png  used on input line 306.
-(pdftex.def)             Requested size: 199.1693pt x 186.28947pt.
- [27
-
- <./images/leontief_1936.png>] [28
-
-]
-<images/exiobase3.jpg, id=187, 63.3548pt x 26.74559pt>
-File: images/exiobase3.jpg Graphic file (type jpg)
-<use images/exiobase3.jpg>
-Package pdftex.def Info: images/exiobase3.jpg  used on input line 331.
-(pdftex.def)             Requested size: 199.1693pt x 84.09476pt.
-
-[29
-
- <./images/exiobase3.jpg>]
-<images/lemrio.jpeg, id=193, 964.0818pt x 542.025pt>
-File: images/lemrio.jpeg Graphic file (type jpg)
-<use images/lemrio.jpeg>
-Package pdftex.def Info: images/lemrio.jpeg  used on input line 342.
-(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
- [30
-
- <./images/lemrio.jpeg>]
-<images/lemrio_equation.jpeg, id=199, 964.0818pt x 542.025pt>
-File: images/lemrio_equation.jpeg Graphic file (type jpg)
-<use images/lemrio_equation.jpeg>
-Package pdftex.def Info: images/lemrio_equation.jpeg  used on input line 348.
-(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
- [31
-
- <./images/lemrio_equation.jpeg>]
-<images/wos_mrio_time.jpg, id=206, 936.49875pt x 451.6875pt>
-File: images/wos_mrio_time.jpg Graphic file (type jpg)
-<use images/wos_mrio_time.jpg>
-Package pdftex.def Info: images/wos_mrio_time.jpg  used on input line 354.
-(pdftex.def)             Requested size: 199.1693pt x 96.0633pt.
- [32
-
- <./images/wos_mrio_time.jpg>]
-<images/wos_mrio_auth.jpg, id=213, 936.49875pt x 451.6875pt>
-File: images/wos_mrio_auth.jpg Graphic file (type jpg)
-<use images/wos_mrio_auth.jpg>
-Package pdftex.def Info: images/wos_mrio_auth.jpg  used on input line 360.
-(pdftex.def)             Requested size: 199.1693pt x 96.0633pt.
- [33
-
- <./images/wos_mrio_auth.jpg>]
-<images/wos_mrio_funding.jpg, id=220, 936.49875pt x 451.6875pt>
-File: images/wos_mrio_funding.jpg Graphic file (type jpg)
-<use images/wos_mrio_funding.jpg>
-Package pdftex.def Info: images/wos_mrio_funding.jpg  used on input line 366.
-(pdftex.def)             Requested size: 199.1693pt x 96.0633pt.
- [34
-
- <./images/wos_mrio_funding.jpg>]
-<images/wos_mrio_field.jpg, id=227, 936.49875pt x 451.6875pt>
-File: images/wos_mrio_field.jpg Graphic file (type jpg)
-<use images/wos_mrio_field.jpg>
-Package pdftex.def Info: images/wos_mrio_field.jpg  used on input line 372.
-(pdftex.def)             Requested size: 199.1693pt x 96.0633pt.
- [35
-
- <./images/wos_mrio_field.jpg>]
-<images/wos_mrio_region.jpg, id=234, 936.49875pt x 451.6875pt>
-File: images/wos_mrio_region.jpg Graphic file (type jpg)
-<use images/wos_mrio_region.jpg>
-Package pdftex.def Info: images/wos_mrio_region.jpg  used on input line 378.
-(pdftex.def)             Requested size: 199.1693pt x 96.0633pt.
-
-[36
-
- <./images/wos_mrio_region.jpg>] [37
-
-] [38
-
-]
-<images/Wu_2018_Table1.png, id=255, 1371.1225pt x 770.88pt>
-File: images/Wu_2018_Table1.png Graphic file (type png)
-<use images/Wu_2018_Table1.png>
-Package pdftex.def Info: images/Wu_2018_Table1.png  used on input line 404.
-(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
- [39
-
- <./images/Wu_2018_Table1.png>]
-<images/Wu_2018_Fig2.png, id=261, 1371.1225pt x 770.88pt>
-File: images/Wu_2018_Fig2.png Graphic file (type png)
-<use images/Wu_2018_Fig2.png>
-Package pdftex.def Info: images/Wu_2018_Fig2.png  used on input line 410.
-(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
- [40
-
- <./images/Wu_2018_Fig2.png>]
-<images/china_eemrio.jpeg, id=267, 964.0818pt x 542.025pt>
-File: images/china_eemrio.jpeg Graphic file (type jpg)
-<use images/china_eemrio.jpeg>
-Package pdftex.def Info: images/china_eemrio.jpeg  used on input line 416.
-(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
- [41
-
- <./images/china_eemrio.jpeg>]
-File: images/exiobase3.jpg Graphic file (type jpg)
-<use images/exiobase3.jpg>
-Package pdftex.def Info: images/exiobase3.jpg  used on input line 426.
-(pdftex.def)             Requested size: 199.1693pt x 84.09476pt.
- [42
-
-]
-[43
-
-] [44
-
-]
-<images/Fath_2015_Fig6.png, id=290, 1371.1225pt x 770.88pt>
-File: images/Fath_2015_Fig6.png Graphic file (type png)
-<use images/Fath_2015_Fig6.png>
-Package pdftex.def Info: images/Fath_2015_Fig6.png  used on input line 480.
-(pdftex.def)             Requested size: 199.1693pt x 111.96881pt.
- [45
-
- <./images/Fath_2015_Fig6.png>] [46
-
-]
-<images/for-rob-red.png, id=301, 702.625pt x 702.625pt>
-File: images/for-rob-red.png Graphic file (type png)
-<use images/for-rob-red.png>
-Package pdftex.def Info: images/for-rob-red.png  used on input line 502.
-(pdftex.def)             Requested size: 199.1693pt x 199.16736pt.
- [47
-
- <./images/for-rob-red.png (PNG copy)>] [48
-
-]
-<images/lemrio_climate_change.jpeg, id=313, 964.0818pt x 542.025pt>
-File: images/lemrio_climate_change.jpeg Graphic file (type jpg)
-<use images/lemrio_climate_change.jpeg>
-Package pdftex.def Info: images/lemrio_climate_change.jpeg  used on input line 
-524.
-(pdftex.def)             Requested size: 199.1693pt x 111.97598pt.
- [49
-
- <./images/lemrio_climate_change.jpeg>]
-<images/lemrio_climate_workflow.jpeg, id=320, 964.0818pt x 542.025pt>
-File: images/lemrio_climate_workflow.jpeg Graphic file (type jpg)
-<use images/lemrio_climate_workflow.jpeg>
-Package pdftex.def Info: images/lemrio_climate_workflow.jpeg  used on input lin
-e 530.
-(pdftex.def)             Requested size: 39.83629pt x 22.38858pt.
- [50
-
- <./images/lemrio_climate_workflow.jpeg>]
-<images/Moran_2020_Fig1.png, id=326, 432.61626pt x 769.87625pt>
-File: images/Moran_2020_Fig1.png Graphic file (type png)
-<use images/Moran_2020_Fig1.png>
-Package pdftex.def Info: images/Moran_2020_Fig1.png  used on input line 536.
-(pdftex.def)             Requested size: 39.83629pt x 70.8835pt.
- [51
-
- <./images/Moran_2020_Fig1.png>] [52
-
-]
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
 \openout6 = `talk.nav'.
 
@@ -1208,34 +947,32 @@ Package pdftex.def Info: images/Moran_2020_Fig1.png  used on input line 536.
 \tf@snm=\write8
 \openout8 = `talk.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 542.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 542.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
 
 (./talk.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 542.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 542.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 121.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 121.
 Package rerunfilecheck Info: File `talk.out' has not changed.
-(rerunfilecheck)             Checksum: 35B824CB441AF6CE5865B7DA08C27790;92.
+(rerunfilecheck)             Checksum: 5217F73E7559AD6423A3ECF8FF9A2AFD;480.
  ) 
 Here is how much of TeX's memory you used:
- 20451 strings out of 494485
- 402576 string characters out of 6175793
- 463218 words of memory out of 5000000
- 23533 multiletter control sequences out of 15000+600000
- 17954 words of font info for 65 fonts, out of 8000000 for 9000
+ 20216 strings out of 494485
+ 398335 string characters out of 6175793
+ 466153 words of memory out of 5000000
+ 23408 multiletter control sequences out of 15000+600000
+ 11909 words of font info for 43 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 56i,11n,55p,811b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on talk.pdf (52 pages, 14407522 bytes).
+ 56i,11n,55p,811b,683s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on talk.pdf (7 pages, 127653 bytes).
 PDF statistics:
- 389 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
- 107 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
