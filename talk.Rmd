@@ -3,6 +3,12 @@ title: Far Flung Forest Landscapes in the Anthropocene
 subtitle: Structural analysis of China's embodied forest network
 author: M.K. Lau (Ph.D.)
 address: Chinese Academy of Sciences and Harvard University
+output: 
+   beamer_presentation:
+     theme: "Pittsburgh" 
+     colortheme: "spruce"
+     fonttheme: "structurebold"
+     keep_tex: yes
 header-includes:
     \usepackage{graphicx}
     \usepackage{tikz}
@@ -85,6 +91,15 @@ render("talk.Rmd", output_format = html_document(toc = TRUE, theme = "journal"))
 
 
 # How do we study forests in this context?
+
+
+# Background: Networks are Everywhere
+
+
+<!-- ```{r , echo = FALSE, out.width = "150%", fig.align = "center"} -->
+<!-- knitr::include_graphics("images/resourcetrade_network.jpeg") -->
+<!-- ``` -->
+
 
 # Background: Networks are Everywhere
 
@@ -277,7 +292,7 @@ knitr::include_graphics("images/wos_mrio_region.jpg")
 # Why information metrics?
 
 - Related to Shannon Information/Diversity index
-- $H = -\sum_i^n p_i \log{p_i} $
+- $$H = -\sum_i^n p_i log(p_i)$$
 
 # Methods: Model MRIO$_{China}$
 
