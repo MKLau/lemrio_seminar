@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.5.6)  13 NOV 2020 18:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.5.6)  16 NOV 2020 18:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -743,9 +743,10 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \pgfphysicalheight=\dimen256
 \pgfphysicalwidth=\dimen257
 \pgfpages@shipoutbox=\box59
-) (./talk.aux)
-\openout1 = `talk.aux'.
+) (./make.out
+No auxiliary output files.
 
+) (./talk.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
@@ -842,9 +843,6 @@ LaTeX Info: Redefining \pageref on input line 23.
 LaTeX Info: Redefining \nameref on input line 23.
 
 (./talk.out) (./talk.out)
-\@outlinefile=\write5
-\openout5 = `talk.out'.
-
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
@@ -921,205 +919,579 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./talk.nav) [1
+) (./talk.nav)
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 38.
+
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+[1
 runsystem(./make_talk.sh )...disabled (restricted).
 
 
+
+
+
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<images/ice_core.jpg, id=54, 2055.68pt x 1199.48125pt>
-File: images/ice_core.jpg Graphic file (type jpg)
-<use images/ice_core.jpg>
-Package pdftex.def Info: images/ice_core.jpg  used on input line 41.
-(pdftex.def)             Requested size: 455.24408pt x 265.62544pt.
+<images/forest_aerial.jpg, id=58, 2569.6pt x 1927.2pt>
+File: images/forest_aerial.jpg Graphic file (type jpg)
+<use images/forest_aerial.jpg>
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 53.
+(pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
+File: images/forest_aerial.jpg Graphic file (type jpg)
+<use images/forest_aerial.jpg>
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 70.
+(pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
+<images/forest_biodiversity.jpg, id=59, 1344.02126pt x 1929.2075pt>
+File: images/forest_biodiversity.jpg Graphic file (type jpg)
+<use images/forest_biodiversity.jpg>
+Package pdftex.def Info: images/forest_biodiversity.jpg  used on input line 70.
+
+(pdftex.def)             Requested size: 178.39984pt x 256.0748pt.
+File: images/forest_aerial.jpg Graphic file (type jpg)
+<use images/forest_aerial.jpg>
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 88.
+(pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
+<images/glass-of-water.jpg, id=60, 481.8pt x 642.4pt>
+File: images/glass-of-water.jpg Graphic file (type jpg)
+<use images/glass-of-water.jpg>
+Package pdftex.def Info: images/glass-of-water.jpg  used on input line 88.
+(pdftex.def)             Requested size: 192.06227pt x 256.0748pt.
+File: images/forest_aerial.jpg Graphic file (type jpg)
+<use images/forest_aerial.jpg>
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 106.
+(pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
+<images/carbon.jpg, id=61, 308.15125pt x 450.68375pt>
+File: images/carbon.jpg Graphic file (type jpg)
+<use images/carbon.jpg>
+Package pdftex.def Info: images/carbon.jpg  used on input line 106.
+(pdftex.def)             Requested size: 175.09789pt x 256.0748pt.
+<images/satellite-view-of-earth-at-night.jpg, id=62, 2509.375pt x 1254.6875pt>
+File: images/satellite-view-of-earth-at-night.jpg Graphic file (type jpg)
+<use images/satellite-view-of-earth-at-night.jpg>
+Package pdftex.def Info: images/satellite-view-of-earth-at-night.jpg  used on i
+nput line 121.
+(pdftex.def)             Requested size: 512.12782pt x 256.0748pt.
  [2
 
- <./images/ice_core.jpg>]
-<images/BAMS_SOTC_2019_co2_paleo_1000px.jpg, id=60, 1003.75pt x 564.1075pt>
-File: images/BAMS_SOTC_2019_co2_paleo_1000px.jpg Graphic file (type jpg)
-<use images/BAMS_SOTC_2019_co2_paleo_1000px.jpg>
-Package pdftex.def Info: images/BAMS_SOTC_2019_co2_paleo_1000px.jpg  used on in
-put line 54.
-(pdftex.def)             Requested size: 455.24408pt x 255.8516pt.
- [3
 
- <./images/BAMS_SOTC_2019_co2_paleo_1000px.jpg>]
-<images/September_CC2020.png, id=66, 989.6975pt x 557.08125pt>
-File: images/September_CC2020.png Graphic file (type png)
-<use images/September_CC2020.png>
-Package pdftex.def Info: images/September_CC2020.png  used on input line 67.
-(pdftex.def)             Requested size: 455.24408pt x 256.24348pt.
- [4
 
- <./images/September_CC2020.png>]
-<images/anthromes.png, id=75, 1371.1225pt x 770.88pt>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <./images/satellite-view-of-earth-at-night.jpg>]
+<images/anthromes.png, id=72, 1371.1225pt x 770.88pt>
 File: images/anthromes.png Graphic file (type png)
 <use images/anthromes.png>
-Package pdftex.def Info: images/anthromes.png  used on input line 82.
+Package pdftex.def Info: images/anthromes.png  used on input line 141.
 (pdftex.def)             Requested size: 342.77979pt x 192.71953pt.
- [5
+ [3
+
+
+
 
  <./images/anthromes.png>]
 <images/Global-land-use-graphic-800x506.png, id=82, 803.0pt x 451.6875pt>
 File: images/Global-land-use-graphic-800x506.png Graphic file (type png)
 <use images/Global-land-use-graphic-800x506.png>
 Package pdftex.def Info: images/Global-land-use-graphic-800x506.png  used on in
-put line 96.
+put line 156.
 (pdftex.def)             Requested size: 200.74951pt x 112.92159pt.
- [6
+ [4
+
+
+
 
  <./images/Global-land-use-graphic-800x506.png>]
-<images/how-america-uses-its-land.png, id=89, 1371.1225pt x 770.88pt>
+<images/how-america-uses-its-land.png, id=93, 1371.1225pt x 770.88pt>
 File: images/how-america-uses-its-land.png Graphic file (type png)
 <use images/how-america-uses-its-land.png>
 Package pdftex.def Info: images/how-america-uses-its-land.png  used on input li
-ne 110.
+ne 171.
 (pdftex.def)             Requested size: 455.24408pt x 255.94386pt.
- [7
+ [5
 
- <./images/how-america-uses-its-land.png>] [8
 
-]
-<images/forest-cut.jpg, id=101, 2063.71pt x 1419.3025pt>
+
+
+ <./images/how-america-uses-its-land.png>]
+<images/ice_core.jpg, id=102, 2055.68pt x 1199.48125pt>
+File: images/ice_core.jpg Graphic file (type jpg)
+<use images/ice_core.jpg>
+Package pdftex.def Info: images/ice_core.jpg  used on input line 186.
+(pdftex.def)             Requested size: 455.24408pt x 265.62544pt.
+
+[6
+
+
+
+
+ <./images/ice_core.jpg>]
+<images/BAMS_SOTC_2019_co2_paleo_1000px.jpg, id=111, 1003.75pt x 564.1075pt>
+File: images/BAMS_SOTC_2019_co2_paleo_1000px.jpg Graphic file (type jpg)
+<use images/BAMS_SOTC_2019_co2_paleo_1000px.jpg>
+Package pdftex.def Info: images/BAMS_SOTC_2019_co2_paleo_1000px.jpg  used on in
+put line 199.
+(pdftex.def)             Requested size: 455.24408pt x 255.8516pt.
+<images/September_CC2020.png, id=112, 989.6975pt x 557.08125pt>
+File: images/September_CC2020.png Graphic file (type png)
+<use images/September_CC2020.png>
+Package pdftex.def Info: images/September_CC2020.png  used on input line 212.
+(pdftex.def)             Requested size: 455.24408pt x 256.24348pt.
+<images/forest-cut.jpg, id=113, 2063.71pt x 1419.3025pt>
 File: images/forest-cut.jpg Graphic file (type jpg)
 <use images/forest-cut.jpg>
-Package pdftex.def Info: images/forest-cut.jpg  used on input line 138.
+Package pdftex.def Info: images/forest-cut.jpg  used on input line 232.
 (pdftex.def)             Requested size: 455.24408pt x 313.09213pt.
- [9
-
- <./images/forest-cut.jpg>]
-<images/sawn-logs.jpg, id=107, 1425.325pt x 801.99625pt>
+<images/sawn-logs.jpg, id=114, 1425.325pt x 801.99625pt>
 File: images/sawn-logs.jpg Graphic file (type jpg)
 <use images/sawn-logs.jpg>
-Package pdftex.def Info: images/sawn-logs.jpg  used on input line 151.
+Package pdftex.def Info: images/sawn-logs.jpg  used on input line 245.
 (pdftex.def)             Requested size: 455.24408pt x 256.15454pt.
- [10
+<images/shipping-ship.jpg, id=115, 1505.625pt x 846.16125pt>
+File: images/shipping-ship.jpg Graphic file (type jpg)
+<use images/shipping-ship.jpg>
+Package pdftex.def Info: images/shipping-ship.jpg  used on input line 263.
+(pdftex.def)             Requested size: 455.24408pt x 255.8516pt.
+ (./talk.toc) [7
 
- <./images/sawn-logs.jpg>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 166.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 166.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 166.
 
-(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
-[11
 
-] [12
 
-] [13
 
-] [14
 
-] [15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]
-<images/annual-change-forest-area.png, id=140, 3412.75pt x 1919.17pt>
+<images/annual-change-forest-area.png, id=139, 3412.75pt x 1919.17pt>
 File: images/annual-change-forest-area.png Graphic file (type png)
 <use images/annual-change-forest-area.png>
 Package pdftex.def Info: images/annual-change-forest-area.png  used on input li
-ne 180.
+ne 319.
 (pdftex.def)             Requested size: 455.24408pt x 256.00194pt.
- [16
+ [8
+
+
+
+
+
+
+
 
  <./images/annual-change-forest-area.png>]
-<images/shipping-ship.jpg, id=147, 1505.625pt x 846.16125pt>
-File: images/shipping-ship.jpg Graphic file (type jpg)
-<use images/shipping-ship.jpg>
-Package pdftex.def Info: images/shipping-ship.jpg  used on input line 195.
-(pdftex.def)             Requested size: 455.24408pt x 255.8516pt.
- [17
-
- <./images/shipping-ship.jpg>]
-<images/resourcetrade_network.jpeg, id=153, 964.0818pt x 542.025pt>
+<images/resourcetrade_network.jpeg, id=149, 964.0818pt x 542.025pt>
 File: images/resourcetrade_network.jpeg Graphic file (type jpg)
 <use images/resourcetrade_network.jpeg>
 Package pdftex.def Info: images/resourcetrade_network.jpeg  used on input line 
-209.
+356.
 (pdftex.def)             Requested size: 455.24408pt x 255.95102pt.
+<images/net_info_dynamics.PNG, id=150, 720.6925pt x 496.85625pt>
+File: images/net_info_dynamics.PNG Graphic file (type png)
+<use images/net_info_dynamics.PNG>
+Package pdftex.def Info: images/net_info_dynamics.PNG  used on input line 371.
+(pdftex.def)             Requested size: 455.24408pt x 313.84746pt.
+ [9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <./images/net_info_dynamics.PNG>]
+<images/cn_for_yu/IMG_0226.PNG, id=160, 642.4pt x 1140.26pt>
+File: images/cn_for_yu/IMG_0226.PNG Graphic file (type png)
+<use images/cn_for_yu/IMG_0226.PNG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0226.PNG  used on input line 387.
+
+(pdftex.def)             Requested size: 455.24408pt x 808.07657pt.
+ [10
+
+
+
+
+ <./images/cn_for_yu/IMG_0226.PNG>]
+<images/cn_for_yu/IMG_0227.PNG, id=169, 642.4pt x 1140.26pt>
+File: images/cn_for_yu/IMG_0227.PNG Graphic file (type png)
+<use images/cn_for_yu/IMG_0227.PNG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0227.PNG  used on input line 403.
+
+(pdftex.def)             Requested size: 455.24408pt x 808.07657pt.
+ [11
+
+
+
+
+ <./images/cn_for_yu/IMG_0227.PNG>]
+<images/cn_for_yu/IMG_0228.PNG, id=178, 642.4pt x 1140.26pt>
+File: images/cn_for_yu/IMG_0228.PNG Graphic file (type png)
+<use images/cn_for_yu/IMG_0228.PNG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0228.PNG  used on input line 419.
+
+(pdftex.def)             Requested size: 455.24408pt x 808.07657pt.
+ [12
+
+
+
+
+ <./images/cn_for_yu/IMG_0228.PNG>]
+<images/cn_for_yu/IMG_0231.JPG, id=188, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0231.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0231.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0231.JPG  used on input line 435.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [13
+
+
+
+
+ <./images/cn_for_yu/IMG_0231.JPG>]
+<images/cn_for_yu/IMG_0232.JPG, id=198, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0232.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0232.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0232.JPG  used on input line 451.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [14
+
+
+
+
+ <./images/cn_for_yu/IMG_0232.JPG>]
+<images/cn_for_yu/IMG_0233.JPG, id=207, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0233.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0233.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0233.JPG  used on input line 467.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [15
+
+
+
+
+ <./images/cn_for_yu/IMG_0233.JPG>]
+<images/cn_for_yu/IMG_0234.JPG, id=216, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0234.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0234.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0234.JPG  used on input line 483.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [16
+
+
+
+
+ <./images/cn_for_yu/IMG_0234.JPG>]
+<images/cn_for_yu/IMG_0235.JPG, id=225, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0235.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0235.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0235.JPG  used on input line 499.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [17
+
+
+
+
+ <./images/cn_for_yu/IMG_0235.JPG>]
+<images/cn_for_yu/IMG_0236.JPG, id=234, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0236.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0236.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0236.JPG  used on input line 515.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
  [18
 
- <./images/resourcetrade_network.jpeg>] [19
 
-]
-[20
 
-] [21
 
-] (./talk.toc) [22
+ <./images/cn_for_yu/IMG_0236.JPG>]
+<images/cn_for_yu/IMG_0237.JPG, id=243, 1084.05pt x 1445.4pt>
+File: images/cn_for_yu/IMG_0237.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0237.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0237.JPG  used on input line 531.
 
-] [23
+(pdftex.def)             Requested size: 455.24408pt x 606.99771pt.
+ [19
 
-] [24
 
-] [25
 
-] [26
 
-] [27
+ <./images/cn_for_yu/IMG_0237.JPG>]
+<images/cn_for_yu/IMG_0238.JPG, id=253, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0238.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0238.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0238.JPG  used on input line 547.
 
-] [28
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [20
 
-] [29
 
-] [30
 
-]
-<images/CNF/IMG_0199.JPG, id=229, 401.5pt x 267.49937pt>
+
+ <./images/cn_for_yu/IMG_0238.JPG>]
+<images/cn_for_yu/IMG_0239.JPG, id=261, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0239.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0239.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0239.JPG  used on input line 563.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [21
+
+
+
+
+ <./images/cn_for_yu/IMG_0239.JPG>]
+<images/cn_for_yu/IMG_0240.JPG, id=270, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0240.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0240.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0240.JPG  used on input line 579.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [22
+
+
+
+
+ <./images/cn_for_yu/IMG_0240.JPG>]
+<images/cn_for_yu/IMG_0241.JPG, id=278, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0241.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0241.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0241.JPG  used on input line 595.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [23
+
+
+
+
+ <./images/cn_for_yu/IMG_0241.JPG>]
+<images/cn_for_yu/IMG_0242.JPG, id=286, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0242.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0242.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0242.JPG  used on input line 611.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [24
+
+
+
+
+ <./images/cn_for_yu/IMG_0242.JPG>]
+<images/cn_for_yu/IMG_0243.JPG, id=294, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0243.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0243.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0243.JPG  used on input line 627.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+[25
+
+
+
+
+ <./images/cn_for_yu/IMG_0243.JPG>]
+<images/cn_for_yu/IMG_0244.JPG, id=304, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0244.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0244.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0244.JPG  used on input line 643.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [26
+
+
+
+
+ <./images/cn_for_yu/IMG_0244.JPG>]
+<images/cn_for_yu/IMG_0245.JPG, id=313, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0245.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0245.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0245.JPG  used on input line 659.
+
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+
+[27
+
+
+
+
+ <./images/cn_for_yu/IMG_0245.JPG>]
+<images/cn_for_yu/IMG_0246.JPG, id=322, 1084.05pt x 1445.4pt>
+File: images/cn_for_yu/IMG_0246.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0246.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0246.JPG  used on input line 675.
+
+(pdftex.def)             Requested size: 455.24408pt x 606.99771pt.
+ [28
+
+
+
+
+ <./images/cn_for_yu/IMG_0246.JPG>]
+<images/cn_for_yu/IMG_0247.JPG, id=331, 1084.05pt x 1445.4pt>
+File: images/cn_for_yu/IMG_0247.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0247.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0247.JPG  used on input line 691.
+
+(pdftex.def)             Requested size: 455.24408pt x 606.99771pt.
+
+[29
+
+
+
+
+ <./images/cn_for_yu/IMG_0247.JPG>]
+<images/moran_2020_1.png, id=341, 411.5375pt x 406.51875pt>
+File: images/moran_2020_1.png Graphic file (type png)
+<use images/moran_2020_1.png>
+Package pdftex.def Info: images/moran_2020_1.png  used on input line 738.
+(pdftex.def)             Requested size: 171.2857pt x 169.19836pt.
+<images/moran_2020_2.png, id=342, 412.54124pt x 347.2975pt>
+File: images/moran_2020_2.png Graphic file (type png)
+<use images/moran_2020_2.png>
+Package pdftex.def Info: images/moran_2020_2.png  used on input line 738.
+(pdftex.def)             Requested size: 199.1693pt x 167.67067pt.
+<images/CNF/IMG_0199.JPG, id=343, 401.5pt x 267.49937pt>
 File: images/CNF/IMG_0199.JPG Graphic file (type jpg)
 <use images/CNF/IMG_0199.JPG>
-Package pdftex.def Info: images/CNF/IMG_0199.JPG  used on input line 318.
+Package pdftex.def Info: images/CNF/IMG_0199.JPG  used on input line 758.
 (pdftex.def)             Requested size: 455.24408pt x 303.32791pt.
- [31
+ [30
 
- <./images/CNF/IMG_0199.JPG>] [32
 
-] (./talk.bbl) [33
 
- </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
-\tf@nav=\write6
-\openout6 = `talk.nav'.
 
-\tf@toc=\write7
-\openout7 = `talk.toc'.
 
-\tf@snm=\write8
-\openout8 = `talk.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
- (./talk.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 336.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 336.
-Package rerunfilecheck Info: File `talk.out' has not changed.
-(rerunfilecheck)             Checksum: 5217F73E7559AD6423A3ECF8FF9A2AFD;480.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <./images/CNF/IMG_0199.JPG>]
+(./talk.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 776.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 776.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 776.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 776.
  ) 
 Here is how much of TeX's memory you used:
- 20581 strings out of 494485
- 406504 string characters out of 6175793
- 475888 words of memory out of 5000000
- 23699 multiletter control sequences out of 15000+600000
- 11904 words of font info for 43 fonts, out of 8000000 for 9000
+ 20895 strings out of 494485
+ 413722 string characters out of 6175793
+ 478774 words of memory out of 5000000
+ 23986 multiletter control sequences out of 15000+600000
+ 15410 words of font info for 56 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 56i,11n,55p,811b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on talk.pdf (33 pages, 4627368 bytes).
+ 56i,9n,55p,811b,696s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Navigation49} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation48} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation47} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{beamerbibEllis2020AnthropogenicCE} has been referen
+ced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation54} has been referenced but does not exis
+t, replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on talk.pdf (30 pages, 9993837 bytes).
 PDF statistics:
- 301 PDF objects out of 1000 (max. 8388607)
- 234 compressed objects within 3 object streams
- 80 named destinations out of 1000 (max. 500000)
- 167 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 393 PDF objects out of 1000 (max. 8388607)
+ 271 compressed objects within 3 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 307 words of extra memory for PDF output out of 10000 (max. 10000000)
 
