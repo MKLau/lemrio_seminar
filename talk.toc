@@ -1,5 +1,5 @@
-\beamer@sectionintoc {2}{Environmental Extended Economic Models}{27}{0}{1}
-\beamer@sectionintoc {3}{Global Trade Networks of Forest Landscapes}{58}{0}{2}
-\beamer@sectionintoc {4}{China's Forest Networks}{64}{0}{3}
-\beamer@sectionintoc {5}{Conclusions}{89}{0}{4}
-\beamer@sectionintoc {6}{Future Work}{90}{0}{5}
+\beamer@sectionintoc {2}{Environmentally Extended Economic Models}{27}{0}{1}
+\beamer@sectionintoc {3}{Global Trade Networks of Forest Landscapes}{67}{0}{2}
+\beamer@sectionintoc {4}{China's Domestic Forest Land Network Structure}{84}{0}{3}
+\beamer@sectionintoc {5}{Summary and Conclusions}{91}{0}{4}
+\beamer@sectionintoc {6}{Future Work}{96}{0}{5}

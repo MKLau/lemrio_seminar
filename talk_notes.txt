@@ -1,307 +1,345 @@
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
 Far Flung Forest Landscapes in the Anthropocene
 Structural analysis of China’s embodied forest network
 
 Matthew Kekoa Lau (Ph.D.)
+Yu Liang, Bo Liu
 Chinese Academy of Sciences and Harvard University
+Email: mk@mklau.info
+Website: https://people.fas.harvard.edu/~matthewklau
+ResearchGate: Matthew_Lau2
 
-1.
-2.
-3.
-4.
+Forests in the Anthropocence
 
-Forests ∼ 80% terrestrial biodiversity (WWF)
-Soil stabilization
-Forests carry out important processes: clean air and water
-Forests store carbon
+• Forests are changing from human impacts
 
-2020-11-19
+Forests in the Anthropocence
 
-Far Flung Forest Landscapes in the Anthropocene
-Context
+• Forests are changing from human impacts
+• Large direct and indirect effects of land-use
 
-1. Anthropocene = proposed geological epoch distinguished by human impacts
+Forests in the Anthropocence
 
-2020-11-19
+• Forests are changing from human impacts
+• Large direct and indirect effects of land-use
+• How do we address indirect and systems-level effects?
 
-Far Flung Forest Landscapes in the Anthropocene
-Context
+Today’s Talk
 
-1. Land-use changes = conversion
-2. One proposal is it started about 1950 with acceleration
-3. Biodiversity changes = species introductions and extinctions
-
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
-Context
-
-1. 90% biomass on Earth is humans and livestock
-
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
-Context
-
-1. 90% biomass on Earth is humans and livestock
-
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
-Context
-
-1. Atmospheric changes = climate change, fire
-
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
-Context
-
-1. Climate change is causing hurricanes that make landfall to take more time to weaken,
-reports a study published 11th November 2020 in the journal Nature.
-
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
-Context
-
-1. Tornado damaged Southbridge, MA forest in 2011
-
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
-Context
-
-1. Droughts
-
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
-Context
-
-1. CAL FIRE MAP Tue 17 Nov 2020 12:10:52 PM EST
-
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
-Context
-
-1. CA Cranston Riverside 2018
-
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
-Context
-
-1. Fires in Australia 2020
-
-2020-11-19
-
-Far Flung Forest Landscapes in the Anthropocene
-Context
-
-Today’s Talk
-
-1 Environmental Extended Economic Models
+1 Environmentally Extended Economic Models
 2 Global Trade Networks of Forest Landscapes
-3 China’s Forest Networks
-
-Today’s Talk
-
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-
-Intro/Context
-Global forest loss and gain and change
-Global greening = India(Agriculture) + China(Forests)
-Economics*Ecology = Landscape Extended Models
-Network Analysis of China’s Greening
-Global Scale
-Local Scale
-Landscape = Tian 2019, Chen 2019
-Resilience Analysis of China’s Forest LE-MRIO
-Conclusions and Future Work
-Acknowledgements
-
-4 Conclusions
+3 China’s Domestic Forest Land Network Structure
+4 Summary and Conclusions
 5 Future Work
 
-2020-11-19
+Economic Input-Output Models
 
-Far Flung Forest Landscapes in the Anthropocene
-Environmental Extended Economic Models
+Economic Input-Output Modeling
 
-1.
-2.
-3.
-4.
-5.
+X = (I − A)−1 Y
 
-This is why they’re called input-output tables
-Each region has a set of sectors/industries
-They can receive inputs from within a region
-They can also recieve input from another region (aka. imports)
-Final use = Consumption not used to produce another product
+Economic Input-Output Modeling
 
-2020-11-19
+X = (I − A)−1 Y
+• X : total consumption
 
-Far Flung Forest Landscapes in the Anthropocene
-Global Trade Networks of Forest Landscapes
+Economic Input-Output Modeling
 
-1. China’s imports have been increasing over time
-2. Mostly from Russia and USA, lesser Canada and New Zealand
-3. Cumulatively, southeast Asian countries rival Russia (43, 621)
+X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
 
-2020-11-19
+Economic Input-Output Modeling
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+• Y : final use
 
-1. Global forest loss and gain and change
-2. Global greening = India(Agriculture) + China(Forests)
+Economic Input-Output Modeling
 
-2020-11-19
+X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+• Y : final use
+• I : identity matrix
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+Economic Input-Output Modeling
 
-1. China’s Forests are Diverse
+X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+• Y : final use
+• I : identity matrix
 
-2020-11-19
+• Wassily Leontief (1936)
+• Leontief Inverse (I − A)−1 calculates
+all of the indirect consumption
+correctly
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+Economic Input-Output Modeling
 
-1. China’s Forests are Diverse
+X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+• Y : final use
+• I : identity matrix
 
-2020-11-19
+• Wassily Leontief (1936)
+• Leontief Inverse (I − A)−1 calculates
+all of the indirect consumption
+correctly
+• Indirect effects can, and usually are,
+greater than direct
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+Economic Input-Output Modeling
 
-1. China’s Forests are Diverse
+X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+• Y : final use
+• I : identity matrix
 
-2020-11-19
+• Wassily Leontief (1936)
+• Leontief Inverse (I − A)−1 calculates
+all of the indirect consumption
+correctly
+• Indirect effects can, and usually are,
+greater than direct
+• Has been influential in ecosystem
+network analysis
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+Environmental Extended Input-Output Models
 
-1. China’s Forests are Diverse
+X = (I − A)−1 Y
 
-2020-11-19
+Environmental Extended Input-Output Models
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+E = F (I − A)−1 Y
 
-1. China’s Forests are Diverse
+Environmental Extended Input-Output Models
 
-2020-11-19
+E = F (I − A)−1 Y
+• F : environmental inputs
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+Environmental Extended Input-Output Models
 
-1. China’s Forests are Diverse
+E = F (I − A)−1 Y
+• F : environmental inputs
+• E : environmental consumption
 
-2020-11-19
+Environmental Extended Input-Output Models
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+E = F (I − A)−1 Y
+• F : environmental inputs
+• E : environmental consumption
 
-1. China’s Forests are Diverse
+• Any environmental (or social) variable
+can be used
 
-2020-11-19
+Environmental Extended Input-Output Models
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+E = F (I − A)−1 Y
+• F : environmental inputs
+• E : environmental consumption
 
-1. China’s Forests are Diverse
+• Any environmental (or social) variable
+can be used
+• Required: estimate of how much is
+used by each industrial sector
 
-2020-11-19
+“Multi-Regional” = Spatial Context
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+Environmental Extended Multi-Regional Input-Output Models
 
-1. China’s Forests are Diverse
+• Many products are made from other products, so indirect use matters
 
-2020-11-19
+Environmental Extended Multi-Regional Input-Output Models
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+• Many products are made from other products, so indirect use matters
+• Input-output modeling provides a framework to account for this
 
-1. China’s Forests are Diverse
+Environmental Extended Multi-Regional Input-Output Models
 
-2020-11-19
+• Many products are made from other products, so indirect use matters
+• Input-output modeling provides a framework to account for this
+• Environmental multipliers allow us to calculate “embodied” ecological variables
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+Environmental Extended Multi-Regional Input-Output Models
 
-1. China’s Forests are Diverse
+• Many products are made from other products, so indirect use matters
+• Input-output modeling provides a framework to account for this
+• Environmental multipliers allow us to calculate “embodied” ecological variables
+• Spatially explicit data allows us to regionalize our models
 
-2020-11-19
+Environmental Extended Multi-Regional Input-Output Models
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+• Many products are made from other products, so indirect use matters
+• Input-output modeling provides a framework to account for this
+• Environmental multipliers allow us to calculate “embodied” ecological variables
+• Spatially explicit data allows us to regionalize our models
 
-1. China’s Forests are Diverse
+−1 s
+Ejs = Fir (I − Ars
+ij ) Yj
 
-2020-11-19
+(1)
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+A few EE-MRIO Applications
 
-1. China’s Forests are Diverse
+• Global carbon emissions are primarily indirect by developed country consumption
+(23%) [2]
 
-2020-11-19
+A few EE-MRIO Applications
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+• Global carbon emissions are primarily indirect by developed country consumption
+(23%) [2]
+• 17% of biodiversity is embodied in food exported to high income countries [1]
 
-1. China’s Forests are Diverse
+A few EE-MRIO Applications
 
-2020-11-19
+• Global carbon emissions are primarily indirect by developed country consumption
+(23%) [2]
+• 17% of biodiversity is embodied in food exported to high income countries [1]
+• Tropical forest loss in Brazil driven by conversion to soy exported primarily to
+China (48.6%) and the USA (72.3%) [3]
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+Global Embodied Landscape Trade Networks
 
-1. China’s Forests are Diverse
+• What is the current state of forested landscapes
 
-2020-11-19
+Global Embodied Landscape Trade Networks
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+• What is the current state of forested landscapes
+• How does this relate to current patterns of landscape trade?
 
-1. China’s Forests are Diverse
+Global Embodied Landscape Trade Networks
 
-2020-11-19
+• What is the current state of forested landscapes
+• How does this relate to current patterns of landscape trade?
+• What is the role of China, which is a globally dominant economic consumer and
+producer?
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+Global Embodied Landscape Trade Networks (Tian et al. 2019)
 
-1. China’s Forests are Diverse
+Global Embodied Landscape Trade Networks (Tian et al. 2019)
 
-2020-11-19
+Global Embodied Landscape Trade Networks (Tian et al. 2019)
 
-Far Flung Forest Landscapes in the Anthropocene
-China’s Forest Networks
+Global Embodied Landscape Trade Networks
 
-1. China’s Forests are Diverse
+• The Earth is getting greener, due in large part to forests in China
 
-2020-11-19
+Global Embodied Landscape Trade Networks
 
-Far Flung Forest Landscapes in the Anthropocene
-Future Work
+• The Earth is getting greener, due in large part to forests in China
+• This greening is in part the result of national forest policy driven shifts in forest use
 
-1. Questions, comments?
+Global Embodied Landscape Trade Networks
+
+• The Earth is getting greener, due in large part to forests in China
+• This greening is in part the result of national forest policy driven shifts in forest use
+• These shifts have concommitantly resulted in expansion of imports and
+deforestation through global trade networks
+
+Global Embodied Landscape Trade Networks
+
+• The Earth is getting greener, due in large part to forests in China
+• This greening is in part the result of national forest policy driven shifts in forest use
+• These shifts have concommitantly resulted in expansion of imports and
+deforestation through global trade networks
+• China is a dominant direct and indirect consumer of domestic and global forested
+lands
+
+Network Structure of China’s Domestic Forest Lands
+
+Network Structure: Highly Localized Direct Use
+
+Network Structure: Three Modules
+
+Network Structure: Dominated by Two Provinces
+
+Network Structure to Dynamics
+
+Network Structure to Dynamics
+
+Network Structure to Dynamics
+
+Summary and Conclusions
+• The effects of the anthropocene has been globalization of economies and
+de-stabiliziation of the environment
+
+Summary and Conclusions
+• The effects of the anthropocene has been globalization of economies and
+de-stabiliziation of the environment
+• China is a driver of forest dynamics globally with increasing imports of forested
+landscapes from foreign countries
+
+Summary and Conclusions
+• The effects of the anthropocene has been globalization of economies and
+de-stabiliziation of the environment
+• China is a driver of forest dynamics globally with increasing imports of forested
+landscapes from foreign countries
+• China’s domestic forest landscape network structure is highly modular relative to
+provincial industries and nationally modular at a broad regional scale (north, south
+and west)
+
+Summary and Conclusions
+• The effects of the anthropocene has been globalization of economies and
+de-stabiliziation of the environment
+• China is a driver of forest dynamics globally with increasing imports of forested
+landscapes from foreign countries
+• China’s domestic forest landscape network structure is highly modular relative to
+provincial industries and nationally modular at a broad regional scale (north, south
+and west)
+• The provincial industries that rely on forest landscapes are potentially
+sub-optimally structured relative to food-webs
+
+Summary and Conclusions
+• The effects of the anthropocene has been globalization of economies and
+de-stabiliziation of the environment
+• China is a driver of forest dynamics globally with increasing imports of forested
+landscapes from foreign countries
+• China’s domestic forest landscape network structure is highly modular relative to
+provincial industries and nationally modular at a broad regional scale (north, south
+and west)
+• The provincial industries that rely on forest landscapes are potentially
+sub-optimally structured relative to food-webs
+• Take-Home: structural analysis of global and domestic networks provide a
+necessary insight into human impacts on Earth, suggesting the need/opportunity
+for international coordination in environmental issues.
+
+Future Work: CAS Grant (2021-2023)
+
+Future Work: CAS Grant (2021-2023)
+
+Cool Projects to Check Out
+
+• www.globalcanopy.org - Financial Sector Transparency
+• www.fineprint.global - Product Sourcing Analysis
+• trase.earth - Stakeholder and Investor Information
+
+Acknowledgements
+
+References I
+
+A. Chaudhary and T. Kastner.
+Land use biodiversity impacts embodied in international food trade.
+Global Environmental Change, 38:195 – 204, 2016.
+B. Liddle.
+Consumption-based accounting and the trade-carbon emissions nexus.
+Energy Economics, 69:71 – 78, 2018.
+D. Schaffer-Smith, S. Tomscha, K. Jarvis, D. Maguire, M. Treglia, and J. Liu.
+Network analysis as a tool for quantifying the dynamics of metacoupled systems: An example using global soybean trade.
+ECOLOGY AND SOCIETY, 23:3, 10 2018.
+
+Far Flung Forest Landscapes in the Anthropocene
+Structural analysis of China’s embodied forest network
+
+Matthew Kekoa Lau (Ph.D.)
+Yu Liang, Bo Liu
+Chinese Academy of Sciences and Harvard University
+Email: mk@mklau.info
+Website: https://people.fas.harvard.edu/~matthewklau
+ResearchGate: Matthew_Lau2
 
 

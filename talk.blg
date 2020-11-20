@@ -3,44 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: talk.aux
 The style file: abbrv.bst
 Database file #1: biblio.bib
-You've used 7 entries,
+You've used 3 entries,
             2118 wiz_defined-function locations,
-            553 strings with 5547 characters,
-and the built_in function-call counts, 2431 in all, are:
-= -- 221
-> -- 160
+            520 strings with 4314 characters,
+and the built_in function-call counts, 1025 in all, are:
+= -- 96
+> -- 53
 < -- 0
-+ -- 63
-- -- 56
-* -- 197
-:= -- 436
-add.period$ -- 20
-call.type$ -- 7
-change.case$ -- 49
++ -- 21
+- -- 18
+* -- 79
+:= -- 185
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 18
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 71
-empty$ -- 159
-format.name$ -- 56
-if$ -- 477
+cite$ -- 3
+duplicate$ -- 33
+empty$ -- 75
+format.name$ -- 18
+if$ -- 205
 int.to.chr$ -- 0
-int.to.str$ -- 7
-missing$ -- 6
-newline$ -- 37
-num.names$ -- 14
-pop$ -- 42
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 18
+num.names$ -- 6
+pop$ -- 12
 preamble$ -- 1
-purify$ -- 42
+purify$ -- 15
 quote$ -- 0
-skip$ -- 54
+skip$ -- 22
 stack$ -- 0
-substring$ -- 111
-swap$ -- 7
+substring$ -- 66
+swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 28
+type$ -- 12
 warning$ -- 0
-while$ -- 19
-width$ -- 8
-write$ -- 76
+while$ -- 9
+width$ -- 4
+write$ -- 35

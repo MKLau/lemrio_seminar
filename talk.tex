@@ -9,15 +9,20 @@
 \usepackage{tikz}
 \usepackage{cite}
 \usepackage{pgfpages}
+\usepackage{bm}
 
 %% \setbeameroption{hide notes}
 \input{.mk.out}
 
 \title{Far Flung Forest Landscapes in the Anthropocene}
 \subtitle{Structural analysis of China's embodied forest network}
-\author{Matthew Kekoa Lau (Ph.D.)}
+\author{Matthew Kekoa Lau (Ph.D.) \\ Yu Liang, Bo Liu}
 \date{}
-\institute{Chinese Academy of Sciences and Harvard University}
+\institute{Chinese Academy of Sciences and Harvard University \\
+                    \\
+                   Email: mk@mklau.info \\
+                   Website: \url{https://people.fas.harvard.edu/~matthewklau} \\
+                   ResearchGate: \url{Matthew_Lau2}}
 
 
 \begin{document}
@@ -25,13 +30,16 @@
 {
 \usebackgroundtemplate{
 \begin{tikzpicture}[remember picture,overlay]
-        \node[at=(current page.center), opacity=0.60]{
+        \node[at=(current page.center), opacity=0.40]{
                 \includegraphics[keepaspectractio, width=\paperwidth]{images/forest_aerial.jpg}
         };
 \end{tikzpicture}
 }
 \begin{frame}
   \titlepage
+  \note[item]{Thanks to Dave Smith and anyone else who's helped to
+  organize this seminar, it's a pleasure for me to speak about my
+  recent work}
   \note[item]{Forests $\sim$ 80\% terrestrial biodiversity (WWF)}
   \note[item]{Soil stabilization}
   \note[item]{Forests carry out important processes: clean air and water}
@@ -408,11 +416,11 @@
 
 
 
-\section{Environmental Extended Economic Models}
+\section{Environmentally Extended Economic Models}
 
 
 \begin{frame}
-  \frametitle{Input-Output Models}
+  \frametitle{Economic Input-Output Models}
 \end{frame}
 
 
@@ -426,35 +434,11 @@
                               width=\paperwidth]{images/le-mrio.png}
             };
       \end{tikzpicture}
-     \note[]{}
+     \note[]{When we think about environmental impacts of humans, we
+      usually think about direct impacts}
 \end{frame}
 }
 
-{ 
-\begin{frame}<article:0>[plain]
-   \frametitle{}
-      \begin{tikzpicture}[remember picture,overlay]
-         \node[at=(current page.center)] {
-             \includegraphics[keepaspectratio,
-                              width=\paperwidth]{images/le-mrio-1.png}
-            };
-      \end{tikzpicture}
-     \note[]{}
-\end{frame}
-}
-
-{ 
-\begin{frame}<article:0>[plain]
-   \frametitle{}
-      \begin{tikzpicture}[remember picture,overlay]
-         \node[at=(current page.center)] {
-             \includegraphics[keepaspectratio,
-                              width=\paperwidth]{images/le-mrio-2.png}
-            };
-      \end{tikzpicture}
-     \note[]{}
-\end{frame}
-}
 
 
 
@@ -558,7 +542,7 @@
 }
 
 \begin{frame}
-  \frametitle{Input-Output Modeling}
+  \frametitle{Economic Input-Output Modeling}
 \begin{columns}
 \begin{column}{0.5\textwidth}
 \begin{center}
@@ -571,24 +555,54 @@ $X = (I - A)^{-1}Y$
 \end{frame}
 
 \begin{frame}
-  \frametitle{Input-Output Modeling}
+  \frametitle{Economic Input-Output Modeling}
 \begin{columns}
 \begin{column}{0.5\textwidth}
 \begin{center}
 $X = (I - A)^{-1}Y$
+\\ 
+\begin{itemize}
+\item $X$: total consumption \pause
+\item $A$: intermediate consumption \pause
+\item $Y$: final use \pause
+\item $I$: identity matrix 
+\end{itemize}
+\end{center}
+\end{column}
+\begin{column}{0.5\textwidth}  %%<--- here
+\end{column}
+\end{columns}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Economic Input-Output Modeling}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\begin{center}
+$X = (I - A)^{-1}Y$
+\\ 
+\begin{itemize}
+\item $X$: total consumption 
+\item $A$: intermediate consumption
+\item $Y$: final use 
+\item $I$: identity matrix 
+\end{itemize}
 \end{center}
 \end{column}
 \begin{column}{0.5\textwidth}  %%<--- here
   \begin{itemize}
-  \item Uses a simple subtraction to calculate all of the indirect
+  \item Wassily Leontief (1936)
+  \item \textit{Leontief Inverse} $(I - A)^{-1}$ calculates all of the indirect
   consumption correctly \pause
   \item Indirect effects can, and usually are, greater than direct \pause
-  \item Has been influencial in ecosystem network analysis
+  \item Has been influential in ecosystem network analysis
   \end{itemize}
 \end{column}
 \end{columns}
 \end{frame}
 
+
 \begin{frame}
   \frametitle{Environmental Extended Input-Output Models}
 \begin{columns}
@@ -608,7 +622,7 @@ $X = (I - A)^{-1}Y$
 \begin{columns}
 \begin{column}{0.5\textwidth}
 \begin{center}
-$X = E(I - A)^{-1}Y$
+$E = F(I - A)^{-1}Y$
 \end{center}
 \end{column}
 \begin{column}{0.5\textwidth}  %%<--- here
@@ -623,14 +637,37 @@ $X = E(I - A)^{-1}Y$
 \begin{columns}
 \begin{column}{0.5\textwidth}
 \begin{center}
-$X = E(I - A)^{-1}Y$
+$E = F(I - A)^{-1}Y$
+\\
+\begin{itemize}
+\item $F$: environmental inputs \pause
+\item $E$: environmental consumption
+\end{itemize}
+\end{center}
+\end{column}
+\begin{column}{0.5\textwidth}  %%<--- here
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Environmental Extended Input-Output Models}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\begin{center}
+$E = F(I - A)^{-1}Y$
+\\
+\begin{itemize}
+\item $F$: environmental inputs 
+\item $E$: environmental consumption
+\end{itemize}
 \end{center}
 \end{column}
 \begin{column}{0.5\textwidth}  %%<--- here
   \begin{itemize}
   \item Any environmental (or social) variable can be used \pause
   \item \textbf{Required}: estimate of how much is used by each
-  indusrial sector
+  industrial sector
   \end{itemize}
 \end{column}
 \end{columns}
@@ -645,9 +682,13 @@ $X = E(I - A)^{-1}Y$
                               width=\paperwidth]{images/le-mrio-form.png}
             };
       \end{tikzpicture}
-     \note[]{}
+     \note[item]{For the rest of the talk, I'll usually refer to
+      landscape networks, which means the proportion of landscape
+      ultimately used to produce a product considering all of the
+      indirect production pathways (aka. supply chains)}
 \end{frame}
 }
+
 
 
 \begin{frame}
@@ -749,17 +790,36 @@ $X = E(I - A)^{-1}Y$
      \note[item]{This is why they're called input-output tables}
      \note[item]{Each region has a set of sectors/industries}
      \note[item]{They can receive inputs from within a region}
-     \note[item]{They can also recieve input from another region (aka. imports)}
+     \note[item]{They can also receive input from another region (aka. imports)}
      \note[item]{Final use = Consumption not used to produce another product}
 \end{frame}
 }
+
+
+\begin{frame}
+  \frametitle{Environmental Extended Multi-Regional Input-Output Models}
+  \begin{itemize}
+  \item Many products are made from other products, so indirect use
+  matters \pause
+  \item Input-output modeling provides a framework to account for this \pause
+  \item Environmental multipliers allow us to calculate ``embodied''
+  ecological variables \pause
+  \item Spatially explicit data allows us to regionalize our models \pause
+    \end{itemize}
+    \begin{center}
+    \begin{equation}
+        E_{j}^{s} = F_{i}^{r}(I - A_{ij}^{rs})^{-1}Y_{j}^{s}
+    \end{equation}
+    \end{center}
+\end{frame}
+
 
 
 
 \begin{frame}
   \frametitle{A few EE-MRIO Applications}
   \begin{itemize}
-  \item Global carbon emmisions are primarily indirect by developed
+  \item Global carbon emissions are primarily indirect by developed
   country consumption (23\%) \cite{LIDDLE201871} \pause
   \item 17\% of biodiversity is embodied in food exported to
   high income countries \cite{CHAUDHARY2016195}  \pause
@@ -784,45 +844,62 @@ $X = E(I - A)^{-1}Y$
 
 
 \section{Global Trade Networks of Forest Landscapes}
- 
 
-\begin{frame}
-  \frametitle{Global Embodied Landscape Trade Networks}
-    \begin{center}
-    \includegraphics[width=0.2\textwidth]{images/Tian_2019_Fig3_inset_inset.png}  
-    \end{center}
-
-\end{frame}
 
 
 \begin{frame}
   \frametitle{Global Embodied Landscape Trade Networks}
-  \begin{center}
-  \includegraphics[width=0.2\textwidth]{images/Tian_2019_Fig3_inset.png}
-  \end{center}
+  \begin{itemize}
+  \item What is the current state of forested landscapes \pause
+  \item How does this relate to current patterns of landscape trade? \pause
+  \item What is the role of China, which is a globally dominant
+  economic consumer and producer?
+  \end{itemize}
 \end{frame}
 
-\begin{frame}
-  \frametitle{Global Embodied Landscape Trade Networks}
-  \begin{center}
-  \includegraphics[width=1.0\textwidth]{images/Tian_2019_Fig3.png}
-  \end{center}
-\end{frame}
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/Tian_2019_Fig1.png}
+{ 
+\begin{frame}<article:0>[plain]
+   \frametitle{}
+      \begin{tikzpicture}[remember picture,overlay]
+         \node[at=(current page.center)] {
+             \includegraphics[keepaspectratio,
+                              width=\paperwidth]{images/globalgreening_tamo_2017.png}
             };
-        \end{tikzpicture}
-     \end{frame}
+      \end{tikzpicture}
+     \note[item]{5\% increase in greening globally since 2000}
+\end{frame}
 }
 
 
+{ 
+\begin{frame}<article:0>[plain]
+   \frametitle{}
+      \begin{tikzpicture}[remember picture,overlay]
+         \node[at=(current page.center)] {
+             \includegraphics[keepaspectratio,
+                              width=\paperwidth]{images/asia_greening_2017.png}
+            };
+      \end{tikzpicture}
+     \note[item]{25\% from China}
+     \note[item]{42\% from forest landscapes in China}
+\end{frame}
+}
+
+
+{ 
+\begin{frame}<article:0>[plain]
+   \frametitle{}
+      \begin{tikzpicture}[remember picture,overlay]
+         \node[at=(current page.center)] {
+             \includegraphics[keepaspectratio,
+                              width=\paperwidth]{images/global_greening_2017.png}
+            };
+      \end{tikzpicture}
+     \note[item]{China exceeds India by over 4\% of global green area}
+     \note[item]{Increased plant, especially forest area is good, a
+      positive outcome of human activities}
+\end{frame}
+}
 
 { % all template changes are local to this group.
 %%    \setbeamertemplate{navigation symbols}{}
@@ -834,8 +911,35 @@ $X = E(I - A)^{-1}Y$
                                  width=\paperwidth]{images/resourcetrade_network.jpeg}
             };
         \end{tikzpicture}
+     \note[item]{Considering trade in forest land, illustrates the
+      importance of considering indirect effects in the Anthropocence}
      \end{frame}
 }
+
+
+\begin{frame}
+  \frametitle{Global Embodied Landscape Trade Networks (Tian et al. 2019)}
+    \begin{center}
+    \includegraphics[width=0.5\textwidth]{images/Tian_2019_Fig3_inset_inset.png}  
+    \end{center}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Global Embodied Landscape Trade Networks (Tian et al. 2019)}
+  \begin{center}
+  \includegraphics[width=0.2\textwidth]{images/Tian_2019_Fig3_inset.png}
+  \end{center}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Global Embodied Landscape Trade Networks (Tian et al. 2019)}
+  \begin{center}
+  \includegraphics[width=0.95\textwidth]{images/Tian_2019_Fig3.png}
+  \end{center}
+\end{frame}
+
+
 
 
 { % all template changes are local to this group.
@@ -854,9 +958,18 @@ $X = E(I - A)^{-1}Y$
      \end{frame}
 }
 
-
-\section{China's Forest Networks}
-
+{ % all template changes are local to this group.
+%%    \setbeamertemplate{navigation symbols}{}
+    \begin{frame}<article:0>[plain]
+      \frametitle{}
+        \begin{tikzpicture}[remember picture,overlay]
+            \node[at=(current page.center)] {
+                \includegraphics[keepaspectratio,
+                                 width=\paperwidth]{images/Tian_2019_Fig1.png}
+            };
+        \end{tikzpicture}
+     \end{frame}
+}
 
 { % all template changes are local to this group.
 %%    \setbeamertemplate{navigation symbols}{}
@@ -868,376 +981,134 @@ $X = E(I - A)^{-1}Y$
                                  width=\paperwidth]{images/annual-change-forest-area.png}
             };
         \end{tikzpicture}
-        \note[item]{Global forest loss and gain and change}
-        \note[item]{Global greening = India(Agriculture) + China(Forests)}
+      \note[item]{Given China's importance in global forest dynamics,
+      shocks to domestic consumption are important global as they can
+      alter imports}
      \end{frame}
 }
 
 
 
 \begin{frame}
-     \frametitle{Redundancy $\sim$ Efficiency}
-        \includegraphics[width=\paperwidth]{images/net_info_dynamics.PNG}
-\end{frame}
-
-\begin{frame}
-  \frametitle{Redundancy $\sim$ Efficiency}
-  \begin{center}
-  $H = -\sum_{i = 1}^{n} p_i ln(p_i)$
-  \end{center}
-\end{frame}
-
-\begin{frame}
-  \frametitle{Redundancy $\sim$ Efficiency}
-  \begin{center}
-  $\Psi = -k\sum_{i=1,j=1}^{nn} \frac{T_{ij}}{T_{..}}\ln(\frac{T_{ij}^{2}}{T_{i.}T_{.j}})$
-  \end{center}
+  \frametitle{Global Embodied Landscape Trade Networks}
+  \begin{itemize}
+  \item The Earth is getting greener, due in large part to forests in
+  China \pause
+  \item This greening is in part the result of national forest policy
+  driven shifts in forest use \pause
+  \item These shifts have concommitantly resulted in expansion of
+  imports and deforestation through global trade networks \pause
+  \item China is a dominant direct and indirect consumer of domestic
+  and global forested lands
+  \end{itemize}
 \end{frame}
 
 
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-             \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0226.PNG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0227.PNG}
-            };
-        \end{tikzpicture}
-
-     \end{frame}
-}
-
-
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0231.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0232.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0233.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0234.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0235.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0236.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0237.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0238.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0239.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0240.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0241.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0242.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0243.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0244.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0245.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0246.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
-
-{ % all template changes are local to this group.
-%%    \setbeamertemplate{navigation symbols}{}
-    \begin{frame}<article:0>[plain]
-      \frametitle{}
-        \begin{tikzpicture}[remember picture,overlay]
-            \node[at=(current page.center)] {
-                \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/cn_for_yu/IMG_0247.JPG}
-            };
-        \end{tikzpicture}
-        \note[item]{China's Forests are Diverse}
-     \end{frame}
-}
-
-
+\section{China's Domestic Forest Land Network Structure}
 
 \begin{frame}
-  \frametitle{China's Forest Networks: Global}
+     \frametitle{Network Structure of China's Domestic Forest Lands}
+     \begin{center}
+        \includegraphics[width=0.75\paperwidth]{images/le-mrio-form.png}
+     \end{center}
+     
 \end{frame}
 
 
 \begin{frame}
-  \frametitle{China's Forest Networks: Domestic/Local}
+     \frametitle{Network Structure: Highly Localized Direct Use}
+     \begin{center}
+       \includegraphics[width=0.4\paperwidth]{images/heatmap_z_for.png}
+     \end{center}
 \end{frame}
 
-%%   - Local Scale
-%% 	- Landscape = Chen 2019
-%% 	- Resilience Analysis of China's Forest LE-MRIO
-
-\section{Conclusions}
 
 \begin{frame}
-  \frametitle{Conclusions}
+     \frametitle{Network Structure: Three Modules}
+     \begin{center}
+        \includegraphics[width=0.75\paperwidth]{images/map_for_modularity.png}
+     \end{center}
+\end{frame}
 
-\begin{itemize}
-\item Localization of resource consumption increases modularity
-\item This is line with recent observations of the benefits of
-empowering local communities for forest restoration
-\item 
+\begin{frame}
+     \frametitle{Network Structure: Dominated by Two Provinces}
+     \begin{center}
+        \includegraphics[width=0.75\paperwidth]{images/map_for_centrality.png}
+     \end{center}
+\end{frame}
+
+
+\begin{frame}
+     \frametitle{Network Structure to Dynamics}
+     \begin{center}
+        \includegraphics[width=0.5\paperwidth]{images/net_info_dynamics_inset.PNG}
+     \end{center}
+     
+\end{frame}
+
+\begin{frame}
+     \frametitle{Network Structure to Dynamics}
+     \begin{center}
+        \includegraphics[width=0.5\paperwidth]{images/net_info_dynamics.PNG}
+     \end{center}
+     
+\end{frame}
+
+
+
+\begin{frame}
+     \frametitle{Network Structure to Dynamics}
+     \begin{center}
+        \includegraphics[width=0.45\paperwidth]{images/for-rob-red.png}     
+     \end{center}
+\end{frame}
+
+
+%% \begin{frame}
+%%   \frametitle{Network Structure: Resilience(Efficiency, Redundancy)}
+%%   \begin{center} 
+%%    \begin{equation}
+%%      H = -\sum_{i = 1}^{n} p_i ln(p_i)
+%%   \end{center}
+%% \end{frame}
+
+
+%% \begin{frame}
+%%   \frametitle{Network Structure: Resilience(Efficiency, Redundancy)}
+%%   \begin{center} 
+%%    \begin{equation}
+%%     \Psi = -k\sum_{i=1,j=1}^{nn} \frac{T_{ij}}{T_{..}}\ln(\frac{T_{ij}^{2}}{T_{i.}T_{.j}})    \end{equation}
+%%   \end{center}
+%% \end{frame}
+
+
+\section{Summary and Conclusions}
+
+
+\begin{frame}
+  \frametitle{Summary and Conclusions}
+  \begin{itemize}
+     \item The effects of the anthropocene has been globalization of
+     economies and de-stabiliziation of the environment \pause
+     \item China is a driver of forest dynamics globally with
+  increasing imports of forested landscapes from foreign countries \pause
+     \item China's domestic forest landscape network structure is
+  highly modular relative to provincial industries and nationally
+  modular at a broad regional scale (north, south and west) \pause
+     \item The provincial industries that rely on forest landscapes
+  are potentially sub-optimally structured relative to food-webs \pause
+  \item \textbf{Take-Home}: structural analysis of global and domestic
+  networks provide a necessary insight into human impacts on Earth,
+  suggesting the need/opportunity for international coordination in
+  environmental issues.
 \end{itemize}
-
 \end{frame}
+
 
 \section{Future Work}
 
 \begin{frame}
-  \frametitle{Future Work}
-\end{frame}
-
-
-\begin{frame}
-  \frametitle{Future Work}
+  \frametitle{Future Work: CAS Grant (2021-2023)}
 \begin{columns}
 \begin{column}{0.5\textwidth}
     \begin{center}
@@ -1253,6 +1124,14 @@ empowering local communities for forest restoration
 \end{frame}
 
 \begin{frame}
+  \frametitle{Future Work: CAS Grant (2021-2023)}
+    \begin{center}
+     \includegraphics[width=1.0\textwidth]{images/lemrio_climate_change.jpeg}
+     \end{center}
+\end{frame}
+
+
+\begin{frame}
   \frametitle{Cool Projects to Check Out}
   \begin{itemize}
   \item \url{www.globalcanopy.org} - Financial Sector Transparency
@@ -1262,14 +1141,9 @@ empowering local communities for forest restoration
 \end{frame}
 
 
-
-
-
 \begin{frame}
   \frametitle{Acknowledgements}
 \end{frame}
-
-
 
 { % all template changes are local to this group.
 %%    \setbeamertemplate{navigation symbols}{}
@@ -1278,19 +1152,36 @@ empowering local communities for forest restoration
         \begin{tikzpicture}[remember picture,overlay]
             \node[at=(current page.center)] {
                 \includegraphics[keepaspectratio,
-                                 width=\paperwidth]{images/CNF/IMG_0199.JPG}
+                                 width=\paperwidth]{images/cn_for_yu/IMG_0233.JPG}
             };
         \end{tikzpicture}
-        \note[item]{Questions, comments?}
+        \note[item]{Funding from the CAS PIFI program}
+        \note[item]{Institutional support and compute resources from
+      Harvard University and Harvard Forest}
+        \note[item]{Thanks to all of the folks in the LSP Lab for
+      providing help with aquiring data for the project and conceptul
+      development}
+        \note[item]{Particularly Dr Yu Liang who heads the lab for
+      hosting me during my stay and travels in China}
      \end{frame}
 }
 
-\begin{frame}
-  \cite{Burgess2012}    
-  \cite{Caggiani2014}
-  \cite{Carvalho2019AdaptationSystems}
-  \cite{Schaffer-Smith2018NetworkTrade}
-\end{frame}
+{ % all template changes are local to this group.
+%%    \setbeamertemplate{navigation symbols}{}
+    \begin{frame}<article:0>[plain]
+      \frametitle{}
+        \begin{tikzpicture}[remember picture,overlay]
+            \node[at=(current page.center)] {
+                \includegraphics[keepaspectratio,
+                                 width=\paperwidth]{images/cn_for_yu/IMG_0240.JPG}
+            };
+        \end{tikzpicture}
+        \note[item]{Questions, comments?}
+        \note[item]{I'll provide my slides with notes}
+     \end{frame}
+}
+
+
 
 
 \begin{frame}[allowframebreaks]
@@ -1300,4 +1191,26 @@ empowering local communities for forest restoration
 \end{frame}
 
 
+{
+\usebackgroundtemplate{
+\begin{tikzpicture}[remember picture,overlay]
+        \node[at=(current page.center), opacity=0.40]{
+                \includegraphics[keepaspectractio, width=\paperwidth]{images/forest_aerial.jpg}
+        };
+\end{tikzpicture}
+}
+\begin{frame}
+  \titlepage
+  \note[item]{Thanks to Dave Smith and anyone else who's helped to
+  organize this seminar, it's a pleasure for me to speak about my
+  recent work}
+  \note[item]{Forests $\sim$ 80\% terrestrial biodiversity (WWF)}
+  \note[item]{Soil stabilization}
+  \note[item]{Forests carry out important processes: clean air and water}
+  \note[item]{Forests store carbon}
+\end{frame}
+}
+
+
 \end{document}
+

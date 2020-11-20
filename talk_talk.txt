@@ -2,7 +2,11 @@ Far Flung Forest Landscapes in the Anthropocene
 Structural analysis of China’s embodied forest network
 
 Matthew Kekoa Lau (Ph.D.)
+Yu Liang, Bo Liu
 Chinese Academy of Sciences and Harvard University
+Email: mk@mklau.info
+Website: https://people.fas.harvard.edu/~matthewklau
+ResearchGate: Matthew_Lau2
 
 Forests in the Anthropocence
 
@@ -21,45 +25,87 @@ Chinese Academy of Sciences and Harvard University
 
 Today’s Talk
 
-1 Environmental Extended Economic Models
+1 Environmentally Extended Economic Models
 2 Global Trade Networks of Forest Landscapes
-3 China’s Forest Networks
-4 Conclusions
+3 China’s Domestic Forest Land Network Structure
+4 Summary and Conclusions
 5 Future Work
 
-Input-Output Models
+Economic Input-Output Models
 
-Input-Output Modeling
+Economic Input-Output Modeling
 
 X = (I − A)−1 Y
 
-Input-Output Modeling
+Economic Input-Output Modeling
 
-• Uses a simple subtraction to calculate
+X = (I − A)−1 Y
+• X : total consumption
+
+Economic Input-Output Modeling
+
+X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+
+Economic Input-Output Modeling
+
+X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+• Y : final use
+
+Economic Input-Output Modeling
+
+X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+• Y : final use
+• I : identity matrix
+
+Economic Input-Output Modeling
+
+X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+• Y : final use
+• I : identity matrix
+
+• Wassily Leontief (1936)
+• Leontief Inverse (I − A)−1 calculates
 all of the indirect consumption
 correctly
+
+Economic Input-Output Modeling
+
 X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+• Y : final use
+• I : identity matrix
 
-Input-Output Modeling
-
-X = (I − A)−1 Y
-
-• Uses a simple subtraction to calculate
+• Wassily Leontief (1936)
+• Leontief Inverse (I − A)−1 calculates
 all of the indirect consumption
 correctly
 • Indirect effects can, and usually are,
 greater than direct
 
-Input-Output Modeling
+Economic Input-Output Modeling
 
 X = (I − A)−1 Y
+• X : total consumption
+• A: intermediate consumption
+• Y : final use
+• I : identity matrix
 
-• Uses a simple subtraction to calculate
+• Wassily Leontief (1936)
+• Leontief Inverse (I − A)−1 calculates
 all of the indirect consumption
 correctly
 • Indirect effects can, and usually are,
 greater than direct
-• Has been influencial in ecosystem
+• Has been influential in ecosystem
 network analysis
 
 Environmental Extended Input-Output Models
@@ -68,88 +114,203 @@ X = (I − A)−1 Y
 
 Environmental Extended Input-Output Models
 
-X = E (I − A)−1 Y
+E = F (I − A)−1 Y
 
 Environmental Extended Input-Output Models
 
-X = E (I − A)−1 Y
+E = F (I − A)−1 Y
+• F : environmental inputs
+
+Environmental Extended Input-Output Models
+
+E = F (I − A)−1 Y
+• F : environmental inputs
+• E : environmental consumption
+
+Environmental Extended Input-Output Models
+
+E = F (I − A)−1 Y
+• F : environmental inputs
+• E : environmental consumption
 
 • Any environmental (or social) variable
 can be used
 
 Environmental Extended Input-Output Models
 
-X = E (I − A)−1 Y
+E = F (I − A)−1 Y
+• F : environmental inputs
+• E : environmental consumption
 
 • Any environmental (or social) variable
 can be used
 • Required: estimate of how much is
-used by each indusrial sector
+used by each industrial sector
 
 “Multi-Regional” = Spatial Context
 
-A few EE-MRIO Applications
+Environmental Extended Multi-Regional Input-Output Models
 
-• Global carbon emmisions are primarily indirect by developed country consumption
-(23%) [5]
+• Many products are made from other products, so indirect use matters
+
+Environmental Extended Multi-Regional Input-Output Models
+
+• Many products are made from other products, so indirect use matters
+• Input-output modeling provides a framework to account for this
+
+Environmental Extended Multi-Regional Input-Output Models
+
+• Many products are made from other products, so indirect use matters
+• Input-output modeling provides a framework to account for this
+• Environmental multipliers allow us to calculate “embodied” ecological variables
+
+Environmental Extended Multi-Regional Input-Output Models
+
+• Many products are made from other products, so indirect use matters
+• Input-output modeling provides a framework to account for this
+• Environmental multipliers allow us to calculate “embodied” ecological variables
+• Spatially explicit data allows us to regionalize our models
+
+Environmental Extended Multi-Regional Input-Output Models
+
+• Many products are made from other products, so indirect use matters
+• Input-output modeling provides a framework to account for this
+• Environmental multipliers allow us to calculate “embodied” ecological variables
+• Spatially explicit data allows us to regionalize our models
+
+−1 s
+Ejs = Fir (I − Ars
+ij ) Yj
+
+(1)
 
 A few EE-MRIO Applications
 
-• Global carbon emmisions are primarily indirect by developed country consumption
-(23%) [5]
-• 17% of biodiversity is embodied in food exported to high income countries [4]
+• Global carbon emissions are primarily indirect by developed country consumption
+(23%) [2]
 
 A few EE-MRIO Applications
 
-• Global carbon emmisions are primarily indirect by developed country consumption
-(23%) [5]
-• 17% of biodiversity is embodied in food exported to high income countries [4]
+• Global carbon emissions are primarily indirect by developed country consumption
+(23%) [2]
+• 17% of biodiversity is embodied in food exported to high income countries [1]
+
+A few EE-MRIO Applications
+
+• Global carbon emissions are primarily indirect by developed country consumption
+(23%) [2]
+• 17% of biodiversity is embodied in food exported to high income countries [1]
 • Tropical forest loss in Brazil driven by conversion to soy exported primarily to
-China (48.6%) and the USA (72.3%) [6]
+China (48.6%) and the USA (72.3%) [3]
 
 Global Embodied Landscape Trade Networks
 
-Global Embodied Landscape Trade Networks
+• What is the current state of forested landscapes
 
 Global Embodied Landscape Trade Networks
 
-Redundancy ∼ Efficiency
+• What is the current state of forested landscapes
+• How does this relate to current patterns of landscape trade?
 
-Redundancy ∼ Efficiency
+Global Embodied Landscape Trade Networks
 
-H=−
+• What is the current state of forested landscapes
+• How does this relate to current patterns of landscape trade?
+• What is the role of China, which is a globally dominant economic consumer and
+producer?
 
-Pn
+Global Embodied Landscape Trade Networks (Tian et al. 2019)
 
-i=1 pi ln(pi )
+Global Embodied Landscape Trade Networks (Tian et al. 2019)
 
-Redundancy ∼ Efficiency
+Global Embodied Landscape Trade Networks (Tian et al. 2019)
 
-Ψ = −k
+Global Embodied Landscape Trade Networks
 
-Tij
-i=1,j=1 T..
+• The Earth is getting greener, due in large part to forests in China
 
-Pnn
+Global Embodied Landscape Trade Networks
 
-T2
+• The Earth is getting greener, due in large part to forests in China
+• This greening is in part the result of national forest policy driven shifts in forest use
 
-ln( Ti. Tij .j )
+Global Embodied Landscape Trade Networks
 
-China’s Forest Networks: Global
+• The Earth is getting greener, due in large part to forests in China
+• This greening is in part the result of national forest policy driven shifts in forest use
+• These shifts have concommitantly resulted in expansion of imports and
+deforestation through global trade networks
 
-China’s Forest Networks: Domestic/Local
+Global Embodied Landscape Trade Networks
 
-Conclusions
+• The Earth is getting greener, due in large part to forests in China
+• This greening is in part the result of national forest policy driven shifts in forest use
+• These shifts have concommitantly resulted in expansion of imports and
+deforestation through global trade networks
+• China is a dominant direct and indirect consumer of domestic and global forested
+lands
 
-• Localization of resource consumption increases modularity
-• This is line with recent observations of the benefits of empowering local
-communities for forest restoration
-•
+Network Structure of China’s Domestic Forest Lands
 
-Future Work
+Network Structure: Highly Localized Direct Use
 
-Future Work
+Network Structure: Three Modules
+
+Network Structure: Dominated by Two Provinces
+
+Network Structure to Dynamics
+
+Network Structure to Dynamics
+
+Network Structure to Dynamics
+
+Summary and Conclusions
+• The effects of the anthropocene has been globalization of economies and
+de-stabiliziation of the environment
+
+Summary and Conclusions
+• The effects of the anthropocene has been globalization of economies and
+de-stabiliziation of the environment
+• China is a driver of forest dynamics globally with increasing imports of forested
+landscapes from foreign countries
+
+Summary and Conclusions
+• The effects of the anthropocene has been globalization of economies and
+de-stabiliziation of the environment
+• China is a driver of forest dynamics globally with increasing imports of forested
+landscapes from foreign countries
+• China’s domestic forest landscape network structure is highly modular relative to
+provincial industries and nationally modular at a broad regional scale (north, south
+and west)
+
+Summary and Conclusions
+• The effects of the anthropocene has been globalization of economies and
+de-stabiliziation of the environment
+• China is a driver of forest dynamics globally with increasing imports of forested
+landscapes from foreign countries
+• China’s domestic forest landscape network structure is highly modular relative to
+provincial industries and nationally modular at a broad regional scale (north, south
+and west)
+• The provincial industries that rely on forest landscapes are potentially
+sub-optimally structured relative to food-webs
+
+Summary and Conclusions
+• The effects of the anthropocene has been globalization of economies and
+de-stabiliziation of the environment
+• China is a driver of forest dynamics globally with increasing imports of forested
+landscapes from foreign countries
+• China’s domestic forest landscape network structure is highly modular relative to
+provincial industries and nationally modular at a broad regional scale (north, south
+and west)
+• The provincial industries that rely on forest landscapes are potentially
+sub-optimally structured relative to food-webs
+• Take-Home: structural analysis of global and domestic networks provide a
+necessary insight into human impacts on Earth, suggesting the need/opportunity
+for international coordination in environmental issues.
+
+Future Work: CAS Grant (2021-2023)
+
+Future Work: CAS Grant (2021-2023)
 
 Cool Projects to Check Out
 
@@ -159,17 +320,8 @@ communities for forest restoration
 
 Acknowledgements
 
-[1] [2] [3] [7]
+References I
 
-References I
-P. J. Burgess, M. Rivas Casado, J. Gavu, A. Mead, T. Cockerill, R. Lord, D. Van Der Horst, and D. C. Howard.
-A framework for reviewing the trade-offs between, renewable energy, food, feed and wood production at a local level, 2012.
-L. Caggiani, M. Ottomanelli, and M. Dell’Orco.
-Handling uncertainty in Multi Regional Input-Output models by entropy maximization and fuzzy programming.
-Transportation Research Part E: Logistics and Transportation Review, 71:159–172, 11 2014.
-M. Carvalho and L. M. Serra.
-Adaptation of the ascendency theory to industrial systems.
-Journal of the Brazilian Society of Mechanical Sciences and Engineering, 41(12), 12 2019.
 A. Chaudhary and T. Kastner.
 Land use biodiversity impacts embodied in international food trade.
 Global Environmental Change, 38:195 – 204, 2016.
@@ -179,8 +331,15 @@ Energy Economics, 69:71 – 78, 2018.
 D. Schaffer-Smith, S. Tomscha, K. Jarvis, D. Maguire, M. Treglia, and J. Liu.
 Network analysis as a tool for quantifying the dynamics of metacoupled systems: An example using global soybean trade.
 ECOLOGY AND SOCIETY, 23:3, 10 2018.
-D. Schaffer-Smith, S. A. Tomscha, K. J. Jarvis, D. Y. Maguire, M. L. Treglia, and J. Liu.
-Network analysis as a tool for quantifying the dynamics of metacoupled systems: An example using global soybean trade.
-Ecology and Society, 23(4), 12 2018.
+
+Far Flung Forest Landscapes in the Anthropocene
+Structural analysis of China’s embodied forest network
+
+Matthew Kekoa Lau (Ph.D.)
+Yu Liang, Bo Liu
+Chinese Academy of Sciences and Harvard University
+Email: mk@mklau.info
+Website: https://people.fas.harvard.edu/~matthewklau
+ResearchGate: Matthew_Lau2
 
 

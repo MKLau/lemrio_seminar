@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.5.6)  19 NOV 2020 19:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.5.6)  20 NOV 2020 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -743,24 +743,55 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \pgfphysicalheight=\dimen256
 \pgfphysicalwidth=\dimen257
 \pgfpages@shipoutbox=\box59
-) (./.mk.out
-No auxiliary output files.
+)
+\sympureletters=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 13.
 
-) (./talk.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldpureletters=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+) (./.mk.out
+
+! Package keyval Error: notes undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \setbeameroption{notes}
+                           
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 19.
+
+(./talk.aux)
+\openout1 = `talk.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -828,7 +859,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 28.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -838,63 +869,68 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count180
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
 
 (./talk.out) (./talk.out)
+\@outlinefile=\write5
+\openout5 = `talk.out'.
+
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 23.
-\symnumbers=\mathgroup6
-\sympureletters=\mathgroup7
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 23.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 23.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 23.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 23.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 23.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 23.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 23.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 23.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 23.
-LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 28.
+\symnumbers=\mathgroup11
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/cmss/m/it on input line 2
+8.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 23.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 23.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 23.
+(Font)                  OT1/mathkerncmss/bx/sl --> OT1/cmss/m/it on input line 
+28.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 23.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 23.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 23.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 23.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 28.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 2
-3.
+8.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-23.
+28.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 23.
+ut line 28.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -920,918 +956,734 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./talk.nav)
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
 
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \end{frame}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 47.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+LaTeX Font Info:    Try loading font information for U+msb on input line 47.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 39.
+line 47.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
+
+! Package keyval Error: keepaspectractio undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<images/forest_aerial.jpg, id=39, 2569.6pt x 1927.2pt>
+File: images/forest_aerial.jpg Graphic file (type jpg)
+<use images/forest_aerial.jpg>
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 47.
+(pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
 [1
 runsystem(./make_talk.sh )...disabled (restricted).
 
 
-
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<images/forest_aerial.jpg, id=50, 2569.6pt x 1927.2pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/forest_aerial.jpg
+>]
 File: images/forest_aerial.jpg Graphic file (type jpg)
 <use images/forest_aerial.jpg>
-Package pdftex.def Info: images/forest_aerial.jpg  used on input line 54.
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 62.
 (pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
+ [2
+
+]
 File: images/forest_aerial.jpg Graphic file (type jpg)
 <use images/forest_aerial.jpg>
-Package pdftex.def Info: images/forest_aerial.jpg  used on input line 71.
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 79.
 (pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
-<images/forest_biodiversity.jpg, id=51, 1344.02126pt x 1929.2075pt>
+<images/forest_biodiversity.jpg, id=55, 1344.02126pt x 1929.2075pt>
 File: images/forest_biodiversity.jpg Graphic file (type jpg)
 <use images/forest_biodiversity.jpg>
-Package pdftex.def Info: images/forest_biodiversity.jpg  used on input line 71.
+Package pdftex.def Info: images/forest_biodiversity.jpg  used on input line 79.
 
 (pdftex.def)             Requested size: 178.39984pt x 256.0748pt.
+ [3
+
+ <./images/forest_biodiversity.jpg>]
 File: images/forest_aerial.jpg Graphic file (type jpg)
 <use images/forest_aerial.jpg>
-Package pdftex.def Info: images/forest_aerial.jpg  used on input line 88.
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 96.
 (pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
-<images/soil_sability.jpg, id=52, 290.08376pt x 394.47375pt>
+<images/soil_sability.jpg, id=61, 290.08376pt x 394.47375pt>
 File: images/soil_sability.jpg Graphic file (type jpg)
 <use images/soil_sability.jpg>
-Package pdftex.def Info: images/soil_sability.jpg  used on input line 88.
+Package pdftex.def Info: images/soil_sability.jpg  used on input line 96.
 (pdftex.def)             Requested size: 188.30875pt x 256.0748pt.
+ [4
+
+ <./images/soil_sability.jpg>]
 File: images/forest_aerial.jpg Graphic file (type jpg)
 <use images/forest_aerial.jpg>
-Package pdftex.def Info: images/forest_aerial.jpg  used on input line 106.
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 114.
 (pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
-<images/glass-of-water.jpg, id=53, 1001.7425pt x 1599.9775pt>
+<images/glass-of-water.jpg, id=67, 1001.7425pt x 1599.9775pt>
 File: images/glass-of-water.jpg Graphic file (type jpg)
 <use images/glass-of-water.jpg>
-Package pdftex.def Info: images/glass-of-water.jpg  used on input line 106.
+Package pdftex.def Info: images/glass-of-water.jpg  used on input line 114.
 (pdftex.def)             Requested size: 160.32793pt x 256.0748pt.
+ [5
+
+ <./images/glass-of-water.jpg>]
 File: images/forest_aerial.jpg Graphic file (type jpg)
 <use images/forest_aerial.jpg>
-Package pdftex.def Info: images/forest_aerial.jpg  used on input line 124.
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 132.
 (pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
-<images/carbon.jpg, id=54, 308.15125pt x 450.68375pt>
+<images/carbon.jpg, id=73, 308.15125pt x 450.68375pt>
 File: images/carbon.jpg Graphic file (type jpg)
 <use images/carbon.jpg>
-Package pdftex.def Info: images/carbon.jpg  used on input line 124.
+Package pdftex.def Info: images/carbon.jpg  used on input line 132.
 (pdftex.def)             Requested size: 175.09789pt x 256.0748pt.
-<images/satellite-view-of-earth-at-night.jpg, id=55, 2509.375pt x 1254.6875pt>
+ [6
+
+ <./images/carbon.jpg>]
+<images/satellite-view-of-earth-at-night.jpg, id=79, 2509.375pt x 1254.6875pt>
 File: images/satellite-view-of-earth-at-night.jpg Graphic file (type jpg)
 <use images/satellite-view-of-earth-at-night.jpg>
 Package pdftex.def Info: images/satellite-view-of-earth-at-night.jpg  used on i
-nput line 139.
+nput line 147.
 (pdftex.def)             Requested size: 512.12782pt x 256.0748pt.
- [2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ [7
 
  <./images/satellite-view-of-earth-at-night.jpg>]
-<images/anthromes.png, id=64, 1371.1225pt x 770.88pt>
+<images/anthromes.png, id=86, 1371.1225pt x 770.88pt>
 File: images/anthromes.png Graphic file (type png)
 <use images/anthromes.png>
-Package pdftex.def Info: images/anthromes.png  used on input line 159.
+Package pdftex.def Info: images/anthromes.png  used on input line 167.
 (pdftex.def)             Requested size: 342.77979pt x 192.71953pt.
- [3
-
-
-
+ [8
 
  <./images/anthromes.png>]
-<images/Global-land-use-graphic-800x506.png, id=73, 803.0pt x 451.6875pt>
+<images/Global-land-use-graphic-800x506.png, id=92, 803.0pt x 451.6875pt>
 File: images/Global-land-use-graphic-800x506.png Graphic file (type png)
 <use images/Global-land-use-graphic-800x506.png>
 Package pdftex.def Info: images/Global-land-use-graphic-800x506.png  used on in
-put line 174.
+put line 182.
 (pdftex.def)             Requested size: 200.74951pt x 112.92159pt.
- [4
-
-
-
+ [9
 
  <./images/Global-land-use-graphic-800x506.png>]
-<images/how-america-uses-its-land.png, id=84, 1371.1225pt x 770.88pt>
+<images/how-america-uses-its-land.png, id=100, 1371.1225pt x 770.88pt>
 File: images/how-america-uses-its-land.png Graphic file (type png)
 <use images/how-america-uses-its-land.png>
 Package pdftex.def Info: images/how-america-uses-its-land.png  used on input li
-ne 189.
-(pdftex.def)             Requested size: 455.24408pt x 255.94386pt.
- [5
-
-
-
-
- <./images/how-america-uses-its-land.png>]
-<images/forest-cut.jpg, id=93, 2063.71pt x 1419.3025pt>
-File: images/forest-cut.jpg Graphic file (type jpg)
-<use images/forest-cut.jpg>
-Package pdftex.def Info: images/forest-cut.jpg  used on input line 205.
-(pdftex.def)             Requested size: 455.24408pt x 313.09213pt.
-<images/sawn-logs.jpg, id=94, 1425.325pt x 801.99625pt>
-File: images/sawn-logs.jpg Graphic file (type jpg)
-<use images/sawn-logs.jpg>
-Package pdftex.def Info: images/sawn-logs.jpg  used on input line 218.
-(pdftex.def)             Requested size: 455.24408pt x 256.15454pt.
-<images/shipping-ship.jpg, id=95, 1505.625pt x 846.16125pt>
-File: images/shipping-ship.jpg Graphic file (type jpg)
-<use images/shipping-ship.jpg>
-Package pdftex.def Info: images/shipping-ship.jpg  used on input line 236.
-(pdftex.def)             Requested size: 455.24408pt x 255.8516pt.
-<images/ice_core.jpg, id=96, 2055.68pt x 1199.48125pt>
-File: images/ice_core.jpg Graphic file (type jpg)
-<use images/ice_core.jpg>
-Package pdftex.def Info: images/ice_core.jpg  used on input line 251.
-(pdftex.def)             Requested size: 455.24408pt x 265.62544pt.
-
-[6
-
-
-
-
-
-
-
-
-
-
-
-
-
- <./images/ice_core.jpg>]
-<images/BAMS_SOTC_2019_co2_paleo_1000px.jpg, id=105, 1003.75pt x 564.1075pt>
-File: images/BAMS_SOTC_2019_co2_paleo_1000px.jpg Graphic file (type jpg)
-<use images/BAMS_SOTC_2019_co2_paleo_1000px.jpg>
-Package pdftex.def Info: images/BAMS_SOTC_2019_co2_paleo_1000px.jpg  used on in
-put line 264.
-(pdftex.def)             Requested size: 455.24408pt x 255.8516pt.
-<images/September_CC2020.png, id=106, 989.6975pt x 557.08125pt>
-File: images/September_CC2020.png Graphic file (type png)
-<use images/September_CC2020.png>
-Package pdftex.def Info: images/September_CC2020.png  used on input line 277.
-(pdftex.def)             Requested size: 455.24408pt x 256.24348pt.
-<images/hurricane.jpg, id=107, 192.72pt x 108.405pt>
-File: images/hurricane.jpg Graphic file (type jpg)
-<use images/hurricane.jpg>
-Package pdftex.def Info: images/hurricane.jpg  used on input line 293.
-(pdftex.def)             Requested size: 455.24408pt x 256.07506pt.
- [7
-
-
-
-
-
-
-
-
-
-
- <./images/hurricane.jpg>]
-<images/tornado_hf.jpg, id=117, 1204.5pt x 677.53125pt>
-File: images/tornado_hf.jpg Graphic file (type jpg)
-<use images/tornado_hf.jpg>
-Package pdftex.def Info: images/tornado_hf.jpg  used on input line 307.
-(pdftex.def)             Requested size: 455.24408pt x 256.07921pt.
- [8
-
-
-
-
- <./images/tornado_hf.jpg>]
-<images/drought_pjw.jpg, id=126, 803.0pt x 451.6875pt>
-File: images/drought_pjw.jpg Graphic file (type jpg)
-<use images/drought_pjw.jpg>
-Package pdftex.def Info: images/drought_pjw.jpg  used on input line 323.
-(pdftex.def)             Requested size: 455.24408pt x 256.07921pt.
- [9
-
-
-
-
- <./images/drought_pjw.jpg>]
-<images/fires_CALFIRE.png, id=135, 1371.1225pt x 770.88pt>
-File: images/fires_CALFIRE.png Graphic file (type png)
-<use images/fires_CALFIRE.png>
-Package pdftex.def Info: images/fires_CALFIRE.png  used on input line 339.
+ne 197.
 (pdftex.def)             Requested size: 455.24408pt x 255.94386pt.
  [10
 
+ <./images/how-america-uses-its-land.png>]
+<images/forest-cut.jpg, id=106, 2063.71pt x 1419.3025pt>
+File: images/forest-cut.jpg Graphic file (type jpg)
+<use images/forest-cut.jpg>
+Package pdftex.def Info: images/forest-cut.jpg  used on input line 213.
+(pdftex.def)             Requested size: 455.24408pt x 313.09213pt.
+ [11
 
-
-
- <./images/fires_CALFIRE.png>]
-<images/fires_CAcranston.jpg, id=144, 1907.125pt x 1270.7475pt>
-File: images/fires_CAcranston.jpg Graphic file (type jpg)
-<use images/fires_CAcranston.jpg>
-Package pdftex.def Info: images/fires_CAcranston.jpg  used on input line 354.
-(pdftex.def)             Requested size: 455.24408pt x 303.33748pt.
-
-[11
-
-
-
-
- <./images/fires_CAcranston.jpg>]
-<images/fires_AUS.png, id=153, 1023.825pt x 576.1525pt>
-File: images/fires_AUS.png Graphic file (type png)
-<use images/fires_AUS.png>
-Package pdftex.def Info: images/fires_AUS.png  used on input line 369.
-(pdftex.def)             Requested size: 455.24408pt x 256.18045pt.
+ <./images/forest-cut.jpg>]
+<images/sawn-logs.jpg, id=112, 1425.325pt x 801.99625pt>
+File: images/sawn-logs.jpg Graphic file (type jpg)
+<use images/sawn-logs.jpg>
+Package pdftex.def Info: images/sawn-logs.jpg  used on input line 226.
+(pdftex.def)             Requested size: 455.24408pt x 256.15454pt.
  [12
 
+ <./images/sawn-logs.jpg>]
+<images/shipping-ship.jpg, id=118, 1505.625pt x 846.16125pt>
+File: images/shipping-ship.jpg Graphic file (type jpg)
+<use images/shipping-ship.jpg>
+Package pdftex.def Info: images/shipping-ship.jpg  used on input line 244.
+(pdftex.def)             Requested size: 455.24408pt x 255.8516pt.
+ [13
 
-
-
- <./images/fires_AUS.png>] (./talk.toc) [13
-
-
-
-
-
-
-
-
-
-]
-<images/le-mrio.png, id=182, 1284.8pt x 722.7pt>
-File: images/le-mrio.png Graphic file (type png)
-<use images/le-mrio.png>
-Package pdftex.def Info: images/le-mrio.png  used on input line 430.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/le-mrio-1.png, id=183, 1284.8pt x 722.7pt>
-File: images/le-mrio-1.png Graphic file (type png)
-<use images/le-mrio-1.png>
-Package pdftex.def Info: images/le-mrio-1.png  used on input line 443.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/le-mrio-2.png, id=184, 1284.8pt x 722.7pt>
-File: images/le-mrio-2.png Graphic file (type png)
-<use images/le-mrio-2.png>
-Package pdftex.def Info: images/le-mrio-2.png  used on input line 456.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/le-mrio-3.png, id=185, 1284.8pt x 722.7pt>
-File: images/le-mrio-3.png Graphic file (type png)
-<use images/le-mrio-3.png>
-Package pdftex.def Info: images/le-mrio-3.png  used on input line 471.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/le-mrio-4.png, id=186, 1284.8pt x 722.7pt>
-File: images/le-mrio-4.png Graphic file (type png)
-<use images/le-mrio-4.png>
-Package pdftex.def Info: images/le-mrio-4.png  used on input line 486.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/le-mrio-5.png, id=187, 1284.8pt x 722.7pt>
-File: images/le-mrio-5.png Graphic file (type png)
-<use images/le-mrio-5.png>
-Package pdftex.def Info: images/le-mrio-5.png  used on input line 501.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/le-mrio-6.png, id=188, 1284.8pt x 722.7pt>
-File: images/le-mrio-6.png Graphic file (type png)
-<use images/le-mrio-6.png>
-Package pdftex.def Info: images/le-mrio-6.png  used on input line 516.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/le-mrio-7.png, id=189, 1284.8pt x 722.7pt>
-File: images/le-mrio-7.png Graphic file (type png)
-<use images/le-mrio-7.png>
-Package pdftex.def Info: images/le-mrio-7.png  used on input line 531.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/le-mrio-8.png, id=190, 1284.8pt x 722.7pt>
-File: images/le-mrio-8.png Graphic file (type png)
-<use images/le-mrio-8.png>
-Package pdftex.def Info: images/le-mrio-8.png  used on input line 544.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/le-mrio-9.png, id=191, 1284.8pt x 722.7pt>
-File: images/le-mrio-9.png Graphic file (type png)
-<use images/le-mrio-9.png>
-Package pdftex.def Info: images/le-mrio-9.png  used on input line 557.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/le-mrio-form.png, id=192, 1284.8pt x 722.7pt>
-File: images/le-mrio-form.png Graphic file (type png)
-<use images/le-mrio-form.png>
-Package pdftex.def Info: images/le-mrio-form.png  used on input line 649.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/regionalize1.png, id=193, 1284.8pt x 722.7pt>
-File: images/regionalize1.png Graphic file (type png)
-<use images/regionalize1.png>
-Package pdftex.def Info: images/regionalize1.png  used on input line 668.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/regionalize2.png, id=194, 1284.8pt x 722.7pt>
-File: images/regionalize2.png Graphic file (type png)
-<use images/regionalize2.png>
-Package pdftex.def Info: images/regionalize2.png  used on input line 681.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/regionalize3.png, id=195, 1284.8pt x 722.7pt>
-File: images/regionalize3.png Graphic file (type png)
-<use images/regionalize3.png>
-Package pdftex.def Info: images/regionalize3.png  used on input line 694.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/regionalize4.png, id=196, 1284.8pt x 722.7pt>
-File: images/regionalize4.png Graphic file (type png)
-<use images/regionalize4.png>
-Package pdftex.def Info: images/regionalize4.png  used on input line 707.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-File: images/le-mrio-form.png Graphic file (type png)
-<use images/le-mrio-form.png>
-Package pdftex.def Info: images/le-mrio-form.png  used on input line 720.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/lemrio_rs.png, id=197, 1284.8pt x 722.7pt>
-File: images/lemrio_rs.png Graphic file (type png)
-<use images/lemrio_rs.png>
-Package pdftex.def Info: images/lemrio_rs.png  used on input line 735.
-(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
-<images/Wu_2018_Table1.png, id=198, 1371.1225pt x 770.88pt>
-File: images/Wu_2018_Table1.png Graphic file (type png)
-<use images/Wu_2018_Table1.png>
-Package pdftex.def Info: images/Wu_2018_Table1.png  used on input line 754.
-(pdftex.def)             Requested size: 455.24408pt x 255.94386pt.
+ <./images/shipping-ship.jpg>]
+<images/ice_core.jpg, id=125, 2055.68pt x 1199.48125pt>
+File: images/ice_core.jpg Graphic file (type jpg)
+<use images/ice_core.jpg>
+Package pdftex.def Info: images/ice_core.jpg  used on input line 259.
+(pdftex.def)             Requested size: 455.24408pt x 265.62544pt.
  [14
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <./images/Wu_2018_Table1.png>]
-<images/Tian_2019_Fig3_inset_inset.png, id=217, 700.6175pt x 525.965pt>
-File: images/Tian_2019_Fig3_inset_inset.png Graphic file (type png)
-<use images/Tian_2019_Fig3_inset_inset.png>
-Package pdftex.def Info: images/Tian_2019_Fig3_inset_inset.png  used on input l
-ine 795.
-(pdftex.def)             Requested size: 79.66649pt x 59.80653pt.
-<images/Tian_2019_Fig3_inset.png, id=218, 320.19624pt x 721.69624pt>
-File: images/Tian_2019_Fig3_inset.png Graphic file (type png)
-<use images/Tian_2019_Fig3_inset.png>
-Package pdftex.def Info: images/Tian_2019_Fig3_inset.png  used on input line 80
-3.
-(pdftex.def)             Requested size: 79.66649pt x 179.55365pt.
-<images/Tian_2019_Fig3.png, id=219, 1371.1225pt x 770.88pt>
-File: images/Tian_2019_Fig3.png Graphic file (type png)
-<use images/Tian_2019_Fig3.png>
-Package pdftex.def Info: images/Tian_2019_Fig3.png  used on input line 810.
-(pdftex.def)             Requested size: 398.3386pt x 223.9494pt.
-
-Overfull \vbox (10.88399pt too high) detected at line 810
- []
-
-<images/Tian_2019_Fig1.png, id=220, 1371.1225pt x 770.88pt>
-File: images/Tian_2019_Fig1.png Graphic file (type png)
-<use images/Tian_2019_Fig1.png>
-Package pdftex.def Info: images/Tian_2019_Fig1.png  used on input line 822.
+ <./images/ice_core.jpg>]
+<images/BAMS_SOTC_2019_co2_paleo_1000px.jpg, id=131, 1003.75pt x 564.1075pt>
+File: images/BAMS_SOTC_2019_co2_paleo_1000px.jpg Graphic file (type jpg)
+<use images/BAMS_SOTC_2019_co2_paleo_1000px.jpg>
+Package pdftex.def Info: images/BAMS_SOTC_2019_co2_paleo_1000px.jpg  used on in
+put line 272.
+(pdftex.def)             Requested size: 455.24408pt x 255.8516pt.
+ [15
+
+ <./images/BAMS_SOTC_2019_co2_paleo_1000px.jpg>]
+<images/September_CC2020.png, id=137, 989.6975pt x 557.08125pt>
+File: images/September_CC2020.png Graphic file (type png)
+<use images/September_CC2020.png>
+Package pdftex.def Info: images/September_CC2020.png  used on input line 285.
+(pdftex.def)             Requested size: 455.24408pt x 256.24348pt.
+ [16
+
+ <./images/September_CC2020.png>]
+<images/hurricane.jpg, id=144, 192.72pt x 108.405pt>
+File: images/hurricane.jpg Graphic file (type jpg)
+<use images/hurricane.jpg>
+Package pdftex.def Info: images/hurricane.jpg  used on input line 301.
+(pdftex.def)             Requested size: 455.24408pt x 256.07506pt.
+ [17
+
+ <./images/hurricane.jpg>]
+<images/tornado_hf.jpg, id=150, 1204.5pt x 677.53125pt>
+File: images/tornado_hf.jpg Graphic file (type jpg)
+<use images/tornado_hf.jpg>
+Package pdftex.def Info: images/tornado_hf.jpg  used on input line 315.
+(pdftex.def)             Requested size: 455.24408pt x 256.07921pt.
+ [18
+
+ <./images/tornado_hf.jpg>]
+<images/drought_pjw.jpg, id=156, 803.0pt x 451.6875pt>
+File: images/drought_pjw.jpg Graphic file (type jpg)
+<use images/drought_pjw.jpg>
+Package pdftex.def Info: images/drought_pjw.jpg  used on input line 331.
+(pdftex.def)             Requested size: 455.24408pt x 256.07921pt.
+ [19
+
+ <./images/drought_pjw.jpg>]
+<images/fires_CALFIRE.png, id=163, 1371.1225pt x 770.88pt>
+File: images/fires_CALFIRE.png Graphic file (type png)
+<use images/fires_CALFIRE.png>
+Package pdftex.def Info: images/fires_CALFIRE.png  used on input line 347.
 (pdftex.def)             Requested size: 455.24408pt x 255.94386pt.
-<images/resourcetrade_network.jpeg, id=221, 964.0818pt x 542.025pt>
+
+[20
+
+ <./images/fires_CALFIRE.png>]
+<images/fires_CAcranston.jpg, id=169, 1907.125pt x 1270.7475pt>
+File: images/fires_CAcranston.jpg Graphic file (type jpg)
+<use images/fires_CAcranston.jpg>
+Package pdftex.def Info: images/fires_CAcranston.jpg  used on input line 362.
+(pdftex.def)             Requested size: 455.24408pt x 303.33748pt.
+ [21
+
+ <./images/fires_CAcranston.jpg>]
+<images/fires_AUS.png, id=176, 1023.825pt x 576.1525pt>
+File: images/fires_AUS.png Graphic file (type png)
+<use images/fires_AUS.png>
+Package pdftex.def Info: images/fires_AUS.png  used on input line 377.
+(pdftex.def)             Requested size: 455.24408pt x 256.18045pt.
+ [22
+
+ <./images/fires_AUS.png>] [23
+
+] [24
+
+] [25
+
+] (./talk.toc) [26
+
+] [27
+
+]
+<images/le-mrio.png, id=219, 1284.8pt x 722.7pt>
+File: images/le-mrio.png Graphic file (type png)
+<use images/le-mrio.png>
+Package pdftex.def Info: images/le-mrio.png  used on input line 439.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [28
+
+ <./images/le-mrio.png (PNG copy)>]
+<images/le-mrio-3.png, id=225, 1284.8pt x 722.7pt>
+File: images/le-mrio-3.png Graphic file (type png)
+<use images/le-mrio-3.png>
+Package pdftex.def Info: images/le-mrio-3.png  used on input line 455.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [29
+
+ <./images/le-mrio-3.png (PNG copy)>]
+<images/le-mrio-4.png, id=231, 1284.8pt x 722.7pt>
+File: images/le-mrio-4.png Graphic file (type png)
+<use images/le-mrio-4.png>
+Package pdftex.def Info: images/le-mrio-4.png  used on input line 470.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [30
+
+ <./images/le-mrio-4.png (PNG copy)>]
+<images/le-mrio-5.png, id=237, 1284.8pt x 722.7pt>
+File: images/le-mrio-5.png Graphic file (type png)
+<use images/le-mrio-5.png>
+Package pdftex.def Info: images/le-mrio-5.png  used on input line 485.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [31
+
+ <./images/le-mrio-5.png (PNG copy)>]
+<images/le-mrio-6.png, id=244, 1284.8pt x 722.7pt>
+File: images/le-mrio-6.png Graphic file (type png)
+<use images/le-mrio-6.png>
+Package pdftex.def Info: images/le-mrio-6.png  used on input line 500.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [32
+
+ <./images/le-mrio-6.png (PNG copy)>]
+<images/le-mrio-7.png, id=250, 1284.8pt x 722.7pt>
+File: images/le-mrio-7.png Graphic file (type png)
+<use images/le-mrio-7.png>
+Package pdftex.def Info: images/le-mrio-7.png  used on input line 515.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [33
+
+ <./images/le-mrio-7.png (PNG copy)>]
+<images/le-mrio-8.png, id=256, 1284.8pt x 722.7pt>
+File: images/le-mrio-8.png Graphic file (type png)
+<use images/le-mrio-8.png>
+Package pdftex.def Info: images/le-mrio-8.png  used on input line 528.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [34
+
+ <./images/le-mrio-8.png (PNG copy)>]
+<images/le-mrio-9.png, id=262, 1284.8pt x 722.7pt>
+File: images/le-mrio-9.png Graphic file (type png)
+<use images/le-mrio-9.png>
+Package pdftex.def Info: images/le-mrio-9.png  used on input line 541.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [35
+
+ <./images/le-mrio-9.png (PNG copy)>] [36
+
+]
+[37
+
+] [38
+
+] [39
+
+] [40
+
+] [41
+
+] [42
+
+] [43
+
+] [44
+
+] [45
+
+] [46
+
+] [47
+
+] [48
+
+] [49
+
+]
+<images/le-mrio-form.png, id=345, 1284.8pt x 722.7pt>
+File: images/le-mrio-form.png Graphic file (type png)
+<use images/le-mrio-form.png>
+Package pdftex.def Info: images/le-mrio-form.png  used on input line 689.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [50
+
+ <./images/le-mrio-form.png (PNG copy)>] [51
+
+]
+<images/regionalize1.png, id=356, 1284.8pt x 722.7pt>
+File: images/regionalize1.png Graphic file (type png)
+<use images/regionalize1.png>
+Package pdftex.def Info: images/regionalize1.png  used on input line 709.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [52
+
+ <./images/regionalize1.png (PNG copy)>]
+<images/regionalize2.png, id=362, 1284.8pt x 722.7pt>
+File: images/regionalize2.png Graphic file (type png)
+<use images/regionalize2.png>
+Package pdftex.def Info: images/regionalize2.png  used on input line 722.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+
+[53
+
+ <./images/regionalize2.png (PNG copy)>]
+<images/regionalize3.png, id=368, 1284.8pt x 722.7pt>
+File: images/regionalize3.png Graphic file (type png)
+<use images/regionalize3.png>
+Package pdftex.def Info: images/regionalize3.png  used on input line 735.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [54
+
+ <./images/regionalize3.png (PNG copy)>]
+<images/regionalize4.png, id=374, 1284.8pt x 722.7pt>
+File: images/regionalize4.png Graphic file (type png)
+<use images/regionalize4.png>
+Package pdftex.def Info: images/regionalize4.png  used on input line 748.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [55
+
+ <./images/regionalize4.png (PNG copy)>]
+File: images/le-mrio-form.png Graphic file (type png)
+<use images/le-mrio-form.png>
+Package pdftex.def Info: images/le-mrio-form.png  used on input line 761.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [56
+
+]
+<images/lemrio_rs.png, id=386, 1284.8pt x 722.7pt>
+File: images/lemrio_rs.png Graphic file (type png)
+<use images/lemrio_rs.png>
+Package pdftex.def Info: images/lemrio_rs.png  used on input line 776.
+(pdftex.def)             Requested size: 455.24408pt x 256.06956pt.
+ [57
+
+ <./images/lemrio_rs.png (PNG copy)>]
+<images/Wu_2018_Table1.png, id=392, 1371.1225pt x 770.88pt>
+File: images/Wu_2018_Table1.png Graphic file (type png)
+<use images/Wu_2018_Table1.png>
+Package pdftex.def Info: images/Wu_2018_Table1.png  used on input line 795.
+(pdftex.def)             Requested size: 455.24408pt x 255.94386pt.
+ [58
+
+ <./images/Wu_2018_Table1.png>] [59
+
+] [60
+
+] [61
+
+] [62
+
+]
+[63
+
+] [64
+
+] [65
+
+] [66
+
+] [67
+
+] [68
+
+] [69
+
+]
+<images/globalgreening_tamo_2017.png, id=468, 722.7pt x 396.48125pt>
+File: images/globalgreening_tamo_2017.png Graphic file (type png)
+<use images/globalgreening_tamo_2017.png>
+Package pdftex.def Info: images/globalgreening_tamo_2017.png  used on input lin
+e 870.
+(pdftex.def)             Requested size: 455.24408pt x 249.75426pt.
+ [70
+
+ <./images/globalgreening_tamo_2017.png>]
+<images/asia_greening_2017.png, id=474, 722.7pt x 547.04375pt>
+File: images/asia_greening_2017.png Graphic file (type png)
+<use images/asia_greening_2017.png>
+Package pdftex.def Info: images/asia_greening_2017.png  used on input line 885.
+
+(pdftex.def)             Requested size: 455.24408pt x 344.59764pt.
+[71
+
+ <./images/asia_greening_2017.png>]
+<images/global_greening_2017.png, id=480, 722.7pt x 411.5375pt>
+File: images/global_greening_2017.png Graphic file (type png)
+<use images/global_greening_2017.png>
+Package pdftex.def Info: images/global_greening_2017.png  used on input line 90
+1.
+(pdftex.def)             Requested size: 455.24408pt x 259.2386pt.
+ [72
+
+ <./images/global_greening_2017.png>]
+<images/resourcetrade_network.jpeg, id=487, 964.0818pt x 542.025pt>
 File: images/resourcetrade_network.jpeg Graphic file (type jpg)
 <use images/resourcetrade_network.jpeg>
 Package pdftex.def Info: images/resourcetrade_network.jpeg  used on input line 
-837.
+916.
 (pdftex.def)             Requested size: 455.24408pt x 255.95102pt.
-<images/comtrade_china_imports_wood.jpeg, id=222, 964.0818pt x 542.025pt>
+[73
+
+ <./images/resourcetrade_network.jpeg>]
+<images/Tian_2019_Fig3_inset_inset.png, id=494, 700.6175pt x 525.965pt>
+File: images/Tian_2019_Fig3_inset_inset.png Graphic file (type png)
+<use images/Tian_2019_Fig3_inset_inset.png>
+Package pdftex.def Info: images/Tian_2019_Fig3_inset_inset.png  used on input l
+ine 925.
+(pdftex.def)             Requested size: 199.1693pt x 149.51634pt.
+ [74
+
+ <./images/Tian_2019_Fig3_inset_inset.png>]
+<images/Tian_2019_Fig3_inset.png, id=501, 320.19624pt x 721.69624pt>
+File: images/Tian_2019_Fig3_inset.png Graphic file (type png)
+<use images/Tian_2019_Fig3_inset.png>
+Package pdftex.def Info: images/Tian_2019_Fig3_inset.png  used on input line 93
+3.
+(pdftex.def)             Requested size: 79.66649pt x 179.55365pt.
+ [75
+
+ <./images/Tian_2019_Fig3_inset.png>]
+<images/Tian_2019_Fig3.png, id=508, 1371.1225pt x 770.88pt>
+File: images/Tian_2019_Fig3.png Graphic file (type png)
+<use images/Tian_2019_Fig3.png>
+Package pdftex.def Info: images/Tian_2019_Fig3.png  used on input line 940.
+(pdftex.def)             Requested size: 378.42044pt x 212.75134pt.
+ [76
+
+ <./images/Tian_2019_Fig3.png>]
+<images/comtrade_china_imports_wood.jpeg, id=514, 964.0818pt x 542.025pt>
 File: images/comtrade_china_imports_wood.jpeg Graphic file (type jpg)
 <use images/comtrade_china_imports_wood.jpeg>
 Package pdftex.def Info: images/comtrade_china_imports_wood.jpeg  used on input
- line 854.
+ line 958.
 (pdftex.def)             Requested size: 455.24408pt x 255.95102pt.
-
-! LaTeX Error: Command \end{enumerate} invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.854      \end{frame}
-                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.854      \end{frame}
-                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.854      \end{frame}
-                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.854      \end{frame}
-                      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-[15
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ [77
 
  <./images/comtrade_china_imports_wood.jpeg>]
-<images/annual-change-forest-area.png, id=232, 3412.75pt x 1919.17pt>
+<images/Tian_2019_Fig1.png, id=520, 1371.1225pt x 770.88pt>
+File: images/Tian_2019_Fig1.png Graphic file (type png)
+<use images/Tian_2019_Fig1.png>
+Package pdftex.def Info: images/Tian_2019_Fig1.png  used on input line 971.
+(pdftex.def)             Requested size: 455.24408pt x 255.94386pt.
+ [78
+
+ <./images/Tian_2019_Fig1.png>]
+<images/annual-change-forest-area.png, id=526, 3412.75pt x 1919.17pt>
 File: images/annual-change-forest-area.png Graphic file (type png)
 <use images/annual-change-forest-area.png>
 Package pdftex.def Info: images/annual-change-forest-area.png  used on input li
-ne 873.
+ne 987.
 (pdftex.def)             Requested size: 455.24408pt x 256.00194pt.
- [16
+ [79
 
+ <./images/annual-change-forest-area.png>] [80
 
+] [81
 
+] [82
 
+]
+[83
 
+]
+File: images/le-mrio-form.png Graphic file (type png)
+<use images/le-mrio-form.png>
+Package pdftex.def Info: images/le-mrio-form.png  used on input line 1015.
+(pdftex.def)             Requested size: 341.43306pt x 192.05493pt.
+ [84
 
+]
+<images/heatmap_z_for.png, id=558, 505.89pt x 505.89pt>
+File: images/heatmap_z_for.png Graphic file (type png)
+<use images/heatmap_z_for.png>
+Package pdftex.def Info: images/heatmap_z_for.png  used on input line 1023.
+(pdftex.def)             Requested size: 182.09485pt x 182.09709pt.
+ [85
 
+ <./images/heatmap_z_for.png (PNG copy)>]
+<images/map_for_modularity.png, id=565, 505.89pt x 361.23708pt>
+File: images/map_for_modularity.png Graphic file (type png)
+<use images/map_for_modularity.png>
+Package pdftex.def Info: images/map_for_modularity.png  used on input line 1031
+.
+(pdftex.def)             Requested size: 341.43306pt x 243.80795pt.
 
- <./images/annual-change-forest-area.png>]
-<images/net_info_dynamics.PNG, id=242, 720.6925pt x 496.85625pt>
+Overfull \vbox (30.74254pt too high) detected at line 1031
+ []
+
+[86
+
+ <./images/map_for_modularity.png (PNG copy)>]
+<images/map_for_centrality.png, id=571, 505.89pt x 361.23708pt>
+File: images/map_for_centrality.png Graphic file (type png)
+<use images/map_for_centrality.png>
+Package pdftex.def Info: images/map_for_centrality.png  used on input line 1038
+.
+(pdftex.def)             Requested size: 341.43306pt x 243.80795pt.
+
+Overfull \vbox (30.74254pt too high) detected at line 1038
+ []
+
+[87
+
+ <./images/map_for_centrality.png (PNG copy)>]
+<images/net_info_dynamics_inset.PNG, id=577, 720.6925pt x 496.85625pt>
+File: images/net_info_dynamics_inset.PNG Graphic file (type png)
+<use images/net_info_dynamics_inset.PNG>
+Package pdftex.def Info: images/net_info_dynamics_inset.PNG  used on input line
+ 1047.
+(pdftex.def)             Requested size: 227.62204pt x 156.91994pt.
+ [88
+
+ <./images/net_info_dynamics_inset.PNG>]
+<images/net_info_dynamics.PNG, id=584, 798.985pt x 307.1475pt>
 File: images/net_info_dynamics.PNG Graphic file (type png)
 <use images/net_info_dynamics.PNG>
-Package pdftex.def Info: images/net_info_dynamics.PNG  used on input line 881.
-(pdftex.def)             Requested size: 455.24408pt x 313.84746pt.
+Package pdftex.def Info: images/net_info_dynamics.PNG  used on input line 1055.
 
-Overfull \hbox (56.90549pt too wide) in paragraph at lines 881--881
-[][]  
- []
+(pdftex.def)             Requested size: 227.62204pt x 87.50044pt.
+ [89
 
+ <./images/net_info_dynamics.PNG>]
+<images/for-rob-red.png, id=591, 702.625pt x 702.625pt>
+File: images/for-rob-red.png Graphic file (type png)
+<use images/for-rob-red.png>
+Package pdftex.def Info: images/for-rob-red.png  used on input line 1064.
+(pdftex.def)             Requested size: 204.85844pt x 204.8603pt.
+ [90
 
-Overfull \vbox (92.78204pt too high) detected at line 881
- []
+ <./images/for-rob-red.png (PNG copy)>] [91
 
-<images/cn_for_yu/IMG_0226.PNG, id=243, 642.4pt x 1140.26pt>
-File: images/cn_for_yu/IMG_0226.PNG Graphic file (type png)
-<use images/cn_for_yu/IMG_0226.PNG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0226.PNG  used on input line 910.
+] [92
 
-(pdftex.def)             Requested size: 455.24408pt x 808.07657pt.
-[17
+] [93
 
+] [94
 
+] [95
 
-
-
-
-
-
-
-
-
-
-
- <./images/cn_for_yu/IMG_0226.PNG>]
-<images/cn_for_yu/IMG_0227.PNG, id=252, 642.4pt x 1140.26pt>
-File: images/cn_for_yu/IMG_0227.PNG Graphic file (type png)
-<use images/cn_for_yu/IMG_0227.PNG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0227.PNG  used on input line 926.
-
-(pdftex.def)             Requested size: 455.24408pt x 808.07657pt.
-<images/cn_for_yu/IMG_0231.JPG, id=253, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0231.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0231.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0231.JPG  used on input line 944.
-
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
- [18
-
-
-
-
-
-
-
- <./images/cn_for_yu/IMG_0231.JPG>]
-<images/cn_for_yu/IMG_0232.JPG, id=262, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0232.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0232.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0232.JPG  used on input line 960.
-
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
-
-[19
-
-
-
-
- <./images/cn_for_yu/IMG_0232.JPG>]
-<images/cn_for_yu/IMG_0233.JPG, id=272, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0233.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0233.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0233.JPG  used on input line 976.
-
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
- [20
-
-
-
-
- <./images/cn_for_yu/IMG_0233.JPG>]
-<images/cn_for_yu/IMG_0234.JPG, id=281, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0234.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0234.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0234.JPG  used on input line 992.
-
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
-
-[21
-
-
-
-
- <./images/cn_for_yu/IMG_0234.JPG>]
-<images/cn_for_yu/IMG_0235.JPG, id=290, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0235.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0235.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0235.JPG  used on input line 1008
-.
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
- [22
-
-
-
-
- <./images/cn_for_yu/IMG_0235.JPG>]
-<images/cn_for_yu/IMG_0236.JPG, id=299, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0236.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0236.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0236.JPG  used on input line 1024
-.
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
-
-[23
-
-
-
-
- <./images/cn_for_yu/IMG_0236.JPG>]
-<images/cn_for_yu/IMG_0237.JPG, id=308, 1084.05pt x 1445.4pt>
-File: images/cn_for_yu/IMG_0237.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0237.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0237.JPG  used on input line 1040
-.
-(pdftex.def)             Requested size: 455.24408pt x 606.99771pt.
- [24
-
-
-
-
- <./images/cn_for_yu/IMG_0237.JPG>]
-<images/cn_for_yu/IMG_0238.JPG, id=317, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0238.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0238.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0238.JPG  used on input line 1056
-.
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
-
-[25
-
-
-
-
- <./images/cn_for_yu/IMG_0238.JPG>]
-<images/cn_for_yu/IMG_0239.JPG, id=327, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0239.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0239.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0239.JPG  used on input line 1072
-.
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
- [26
-
-
-
-
- <./images/cn_for_yu/IMG_0239.JPG>]
-<images/cn_for_yu/IMG_0240.JPG, id=336, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0240.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0240.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0240.JPG  used on input line 1088
-.
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
-
-[27
-
-
-
-
- <./images/cn_for_yu/IMG_0240.JPG>]
-<images/cn_for_yu/IMG_0241.JPG, id=344, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0241.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0241.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0241.JPG  used on input line 1104
-.
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
- [28
-
-
-
-
- <./images/cn_for_yu/IMG_0241.JPG>]
-<images/cn_for_yu/IMG_0242.JPG, id=353, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0242.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0242.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0242.JPG  used on input line 1120
-.
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
-
-[29
-
-
-
-
- <./images/cn_for_yu/IMG_0242.JPG>]
-<images/cn_for_yu/IMG_0243.JPG, id=362, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0243.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0243.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0243.JPG  used on input line 1136
-.
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
- [30
-
-
-
-
- <./images/cn_for_yu/IMG_0243.JPG>]
-<images/cn_for_yu/IMG_0244.JPG, id=372, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0244.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0244.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0244.JPG  used on input line 1152
-.
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
-
-[31
-
-
-
-
- <./images/cn_for_yu/IMG_0244.JPG>]
-<images/cn_for_yu/IMG_0245.JPG, id=382, 1445.4pt x 1084.05pt>
-File: images/cn_for_yu/IMG_0245.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0245.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0245.JPG  used on input line 1168
-.
-(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
- [32
-
-
-
-
- <./images/cn_for_yu/IMG_0245.JPG>]
-<images/cn_for_yu/IMG_0246.JPG, id=391, 1084.05pt x 1445.4pt>
-File: images/cn_for_yu/IMG_0246.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0246.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0246.JPG  used on input line 1184
-.
-(pdftex.def)             Requested size: 455.24408pt x 606.99771pt.
-
-[33
-
-
-
-
- <./images/cn_for_yu/IMG_0246.JPG>]
-<images/cn_for_yu/IMG_0247.JPG, id=400, 1084.05pt x 1445.4pt>
-File: images/cn_for_yu/IMG_0247.JPG Graphic file (type jpg)
-<use images/cn_for_yu/IMG_0247.JPG>
-Package pdftex.def Info: images/cn_for_yu/IMG_0247.JPG  used on input line 1200
-.
-(pdftex.def)             Requested size: 455.24408pt x 606.99771pt.
- [34
-
-
-
-
- <./images/cn_for_yu/IMG_0247.JPG>]
-<images/moran_2020_1.png, id=409, 411.5375pt x 406.51875pt>
+]
+<images/moran_2020_1.png, id=623, 709.65125pt x 736.7525pt>
 File: images/moran_2020_1.png Graphic file (type png)
 <use images/moran_2020_1.png>
-Package pdftex.def Info: images/moran_2020_1.png  used on input line 1253.
-(pdftex.def)             Requested size: 171.2857pt x 169.19836pt.
-<images/moran_2020_2.png, id=410, 412.54124pt x 347.2975pt>
+Package pdftex.def Info: images/moran_2020_1.png  used on input line 1124.
+(pdftex.def)             Requested size: 171.2857pt x 177.82474pt.
+<images/moran_2020_2.png, id=624, 869.2475pt x 742.775pt>
 File: images/moran_2020_2.png Graphic file (type png)
 <use images/moran_2020_2.png>
-Package pdftex.def Info: images/moran_2020_2.png  used on input line 1253.
-(pdftex.def)             Requested size: 199.1693pt x 167.67067pt.
-<images/CNF/IMG_0199.JPG, id=414, 401.5pt x 267.49937pt>
-File: images/CNF/IMG_0199.JPG Graphic file (type jpg)
-<use images/CNF/IMG_0199.JPG>
-Package pdftex.def Info: images/CNF/IMG_0199.JPG  used on input line 1285.
-(pdftex.def)             Requested size: 455.24408pt x 303.32791pt.
+Package pdftex.def Info: images/moran_2020_2.png  used on input line 1124.
+(pdftex.def)             Requested size: 199.1693pt x 170.18863pt.
+ [96
 
-[35
+ <./images/moran_2020_1.png> <./images/moran_2020_2.png>]
+<images/lemrio_climate_change.jpeg, id=631, 964.0818pt x 542.025pt>
+File: images/lemrio_climate_change.jpeg Graphic file (type jpg)
+<use images/lemrio_climate_change.jpeg>
+Package pdftex.def Info: images/lemrio_climate_change.jpeg  used on input line 
+1131.
+(pdftex.def)             Requested size: 398.3386pt x 223.95197pt.
+
+Overfull \vbox (10.88655pt too high) detected at line 1131
+ []
+
+[97
+
+ <./images/lemrio_climate_change.jpeg>] [98
+
+] [99
+
+]
+<images/cn_for_yu/IMG_0233.JPG, id=652, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0233.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0233.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0233.JPG  used on input line 1166
+.
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [100
+
+ <./images/cn_for_yu/IMG_0233.JPG>]
+<images/cn_for_yu/IMG_0240.JPG, id=658, 1445.4pt x 1084.05pt>
+File: images/cn_for_yu/IMG_0240.JPG Graphic file (type jpg)
+<use images/cn_for_yu/IMG_0240.JPG>
+Package pdftex.def Info: images/cn_for_yu/IMG_0240.JPG  used on input line 1181
+.
+(pdftex.def)             Requested size: 455.24408pt x 341.42793pt.
+ [101
+
+ <./images/cn_for_yu/IMG_0240.JPG>] (./talk.bbl) [102
+
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1211 \end{frame}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
+! Package keyval Error: keepaspectractio undefined.
 
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1211 \end{frame}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
+File: images/forest_aerial.jpg Graphic file (type jpg)
+<use images/forest_aerial.jpg>
+Package pdftex.def Info: images/forest_aerial.jpg  used on input line 1211.
+(pdftex.def)             Requested size: 455.24408pt x 341.41139pt.
+[103
 
+]
+\tf@nav=\write6
+\openout6 = `talk.nav'.
 
+\tf@toc=\write7
+\openout7 = `talk.toc'.
 
+\tf@snm=\write8
+\openout8 = `talk.snm'.
 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1215.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1215.
+ (./talk.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1215.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1215.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <./images/CNF/IMG_0199.JPG>] (./talk.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1303.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1303.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1303.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1303.
+Package rerunfilecheck Info: File `talk.out' has not changed.
+(rerunfilecheck)             Checksum: 2AFB29F8032945509A040D52F9864AD4;379.
  ) 
 Here is how much of TeX's memory you used:
- 21181 strings out of 494485
- 419427 string characters out of 6175793
- 478005 words of memory out of 5000000
- 24232 multiletter control sequences out of 15000+600000
- 17535 words of font info for 64 fonts, out of 8000000 for 9000
+ 21253 strings out of 494485
+ 418152 string characters out of 6175793
+ 481544 words of memory out of 5000000
+ 24164 multiletter control sequences out of 15000+600000
+ 20511 words of font info for 67 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 56i,9n,55p,811b,694s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation90} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation89} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation64} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation58} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation96} has been referenced but does not exis
-t, replaced by a fixed one
-
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on talk.pdf (35 pages, 13723520 bytes).
+ 56i,13n,55p,811b,845s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmtt8.pfb>
+Output written on talk.pdf (103 pages, 22851531 bytes).
 PDF statistics:
- 468 PDF objects out of 1000 (max. 8388607)
- 295 compressed objects within 3 object streams
- 82 named destinations out of 1000 (max. 500000)
- 431 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 766 PDF objects out of 1000 (max. 8388607)
+ 569 compressed objects within 6 object streams
+ 216 named destinations out of 1000 (max. 500000)
+ 376 words of extra memory for PDF output out of 10000 (max. 10000000)
 
