@@ -1,0 +1,186 @@
+Far Flung Forest Landscapes in the Anthropocene
+Structural analysis of China’s embodied forest network
+
+Matthew Kekoa Lau (Ph.D.)
+Chinese Academy of Sciences and Harvard University
+
+Forests in the Anthropocence
+
+• Forests are changing from human impacts
+
+Forests in the Anthropocence
+
+• Forests are changing from human impacts
+• Large direct and indirect effects of land-use
+
+Forests in the Anthropocence
+
+• Forests are changing from human impacts
+• Large direct and indirect effects of land-use
+• How do we address indirect and systems-level effects?
+
+Today’s Talk
+
+1 Environmental Extended Economic Models
+2 Global Trade Networks of Forest Landscapes
+3 China’s Forest Networks
+4 Conclusions
+5 Future Work
+
+Input-Output Models
+
+Input-Output Modeling
+
+X = (I − A)−1 Y
+
+Input-Output Modeling
+
+• Uses a simple subtraction to calculate
+all of the indirect consumption
+correctly
+X = (I − A)−1 Y
+
+Input-Output Modeling
+
+X = (I − A)−1 Y
+
+• Uses a simple subtraction to calculate
+all of the indirect consumption
+correctly
+• Indirect effects can, and usually are,
+greater than direct
+
+Input-Output Modeling
+
+X = (I − A)−1 Y
+
+• Uses a simple subtraction to calculate
+all of the indirect consumption
+correctly
+• Indirect effects can, and usually are,
+greater than direct
+• Has been influencial in ecosystem
+network analysis
+
+Environmental Extended Input-Output Models
+
+X = (I − A)−1 Y
+
+Environmental Extended Input-Output Models
+
+X = E (I − A)−1 Y
+
+Environmental Extended Input-Output Models
+
+X = E (I − A)−1 Y
+
+• Any environmental (or social) variable
+can be used
+
+Environmental Extended Input-Output Models
+
+X = E (I − A)−1 Y
+
+• Any environmental (or social) variable
+can be used
+• Required: estimate of how much is
+used by each indusrial sector
+
+“Multi-Regional” = Spatial Context
+
+A few EE-MRIO Applications
+
+• Global carbon emmisions are primarily indirect by developed country consumption
+(23%) [5]
+
+A few EE-MRIO Applications
+
+• Global carbon emmisions are primarily indirect by developed country consumption
+(23%) [5]
+• 17% of biodiversity is embodied in food exported to high income countries [4]
+
+A few EE-MRIO Applications
+
+• Global carbon emmisions are primarily indirect by developed country consumption
+(23%) [5]
+• 17% of biodiversity is embodied in food exported to high income countries [4]
+• Tropical forest loss in Brazil driven by conversion to soy exported primarily to
+China (48.6%) and the USA (72.3%) [6]
+
+Global Embodied Landscape Trade Networks
+
+Global Embodied Landscape Trade Networks
+
+Global Embodied Landscape Trade Networks
+
+Redundancy ∼ Efficiency
+
+Redundancy ∼ Efficiency
+
+H=−
+
+Pn
+
+i=1 pi ln(pi )
+
+Redundancy ∼ Efficiency
+
+Ψ = −k
+
+Tij
+i=1,j=1 T..
+
+Pnn
+
+T2
+
+ln( Ti. Tij .j )
+
+China’s Forest Networks: Global
+
+China’s Forest Networks: Domestic/Local
+
+Conclusions
+
+• Localization of resource consumption increases modularity
+• This is line with recent observations of the benefits of empowering local
+communities for forest restoration
+•
+
+Future Work
+
+Future Work
+
+Cool Projects to Check Out
+
+• www.globalcanopy.org - Financial Sector Transparency
+• www.fineprint.global - Product Sourcing Analysis
+• trase.earth - Stakeholder and Investor Information
+
+Acknowledgements
+
+[1] [2] [3] [7]
+
+References I
+P. J. Burgess, M. Rivas Casado, J. Gavu, A. Mead, T. Cockerill, R. Lord, D. Van Der Horst, and D. C. Howard.
+A framework for reviewing the trade-offs between, renewable energy, food, feed and wood production at a local level, 2012.
+L. Caggiani, M. Ottomanelli, and M. Dell’Orco.
+Handling uncertainty in Multi Regional Input-Output models by entropy maximization and fuzzy programming.
+Transportation Research Part E: Logistics and Transportation Review, 71:159–172, 11 2014.
+M. Carvalho and L. M. Serra.
+Adaptation of the ascendency theory to industrial systems.
+Journal of the Brazilian Society of Mechanical Sciences and Engineering, 41(12), 12 2019.
+A. Chaudhary and T. Kastner.
+Land use biodiversity impacts embodied in international food trade.
+Global Environmental Change, 38:195 – 204, 2016.
+B. Liddle.
+Consumption-based accounting and the trade-carbon emissions nexus.
+Energy Economics, 69:71 – 78, 2018.
+D. Schaffer-Smith, S. Tomscha, K. Jarvis, D. Maguire, M. Treglia, and J. Liu.
+Network analysis as a tool for quantifying the dynamics of metacoupled systems: An example using global soybean trade.
+ECOLOGY AND SOCIETY, 23:3, 10 2018.
+D. Schaffer-Smith, S. A. Tomscha, K. J. Jarvis, D. Y. Maguire, M. L. Treglia, and J. Liu.
+Network analysis as a tool for quantifying the dynamics of metacoupled systems: An example using global soybean trade.
+Ecology and Society, 23(4), 12 2018.
+
+
